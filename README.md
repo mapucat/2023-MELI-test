@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+# 2023 MELI test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a challenge's resolution.
 
-## Available Scripts
+Contains two projects: client and server coded using React and Nodejs along with typescript.
 
-In the project directory, you can run:
+Client side files are defined as the principal folder structure and server files are inside `server/` dir.
+
+## Requirements
+
+You will need: 
+- [Node.js](https://nodejs.org/es/) `v16.16.0`
+
+## Install
+
+### `npm install:all`
+
+Install client and server projects.
+
+### `npm install`
+
+Install client dependencies
+
+### `npm install:server`
+
+Install server dependencies
+
+## Start
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+At the same time, runs server side on [http://localhost:5000](http://localhost:5000)
+
+The page will reload if you make edits.
 You will also see any lint errors in the console.
+
+### `npm start:server`
+
+Runs server side on [http://localhost:5000](http://localhost:5000)
+
+### `npm start:client`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Build
+
+### `npm build`
+
+Builds client and server for production to the `dist` folder.
+
+### `npm build:server`
+
+Build server side
+
+### `npm start:client`
+
+Build client side
+
+## Test
+
+Libraries used to test:
+
+- [Jest](https://jestjs.io/)
+- [React testing library](https://testing-library.com/)
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Start tests on client and server
 
-### `npm run build`
+### `npm build:server`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Start tests on server side
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `npm start:client`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Start tests client side
