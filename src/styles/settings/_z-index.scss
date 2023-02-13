@@ -1,0 +1,12 @@
+/* 
+ * Z-index 
+ */
+
+$z-layers: (
+    'back': -1,
+    'none': 0,
+    'floor': 1,
+    'medium': 10,
+    'up': 50,
+    'top': 100,
+) !default;

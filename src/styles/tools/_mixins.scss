@@ -1,0 +1,42 @@
+/* Mixin para crear media queries basadas en el breakpoint */
+@mixin set-breakpoint($breakpoint, $limit: max) {
+    @if map-has-key($breakpoints, $breakpoint) {
+        $breakpoint: map_get($breakpoints, $breakpoint);
+        @if $limit == min {
+            $breakpoint: $breakpoint - 1px;
+        }
+        @media screen and (#{$limit}-width: $breakpoint) {
+            @content;
+        }
+    } @else {
+        @warn 'Breakpoint #{$breakpoint} not found';
+    }
+}
+
+/* Mixin para importar todas los archivos de fuente para compatibilidad con varios navegadores */
+@mixin font-face($font-name, $font-path){
+    @font-face {
+        font-family: $font-name;
+        font-weight: normal;
+        font-style: normal;
+        font-display: auto;
+        src: local($font-name),
+            url($font-path+$font-name+".woff2") format("woff2"), /* Modern Browsers */
+            url($font-path+$font-name+".woff") format("woff"), /* Modern Browsers */
+            url($font-path+$font-name+".ttf") format("truetype"), /* Safari, Android, iOS */
+            url($font-path+$font-name+".eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+            url($font-path+$font-name+".eot"), /* IE9 Compat Modes */
+            url($font-path+$font-name+".otf") format("opentype"), /* Open Type Font */
+            url($font-path+$font-name+".svg") format("svg"); /* Legacy iOS */
+    }
+}
+
+/*
+  * Mixin para agregar el contenido al placeholder con compatibilidad con varios navegadores 
+ */
+@mixin placeholder {
+    &::-webkit-input-placeholder {@content}
+    &:-moz-placeholder           {@content}
+    &::-moz-placeholder          {@content}
+    &:-ms-input-placeholder      {@content}  
+}

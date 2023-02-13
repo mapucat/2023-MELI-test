@@ -1,0 +1,14 @@
+/*
+ * FONTS
+ */
+
+$font-base: 18;
+
+$fonts: (
+    'primary': (
+        'regular': 'ProximaNova-Regular',
+        'bold': 'ProximaNova-Bold'
+
+    ),
+    'callback': sans-serif
+) !default;

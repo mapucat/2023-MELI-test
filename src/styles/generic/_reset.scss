@@ -1,0 +1,35 @@
+
+
+figure, p, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-size: $font-base; // (($font-base * 100) / 1920) * 1vw;
+    @include set-breakpoint('xxx-grande') {
+        $font-base: 16;
+        font-size: #{$font-base}px;
+    }
+}
+
+body {
+    font-family: font('primary', 'regular');
+}
+
+button { 
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
