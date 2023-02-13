@@ -28,6 +28,8 @@
     "react/no-children-prop": "off",
     "max-params": [2, 4],
     "no-console": "off",
-    "no-debugger": "warn"
+    "no-debugger": "warn",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/quotes": "off"
   }
 }

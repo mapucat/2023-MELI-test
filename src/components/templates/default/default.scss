@@ -1,0 +1,8 @@
+@import '../../../styles/settings/settings.scss';
+@import '../../../styles/tools/tools.scss';
+
+.default-template {
+  padding: 0 $margin-size $margin-size $margin-size;
+  background-color: color('background', 'primary');
+  min-height: 92vh;
+}

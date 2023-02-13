@@ -1,7 +1,9 @@
 
+@use "sass:math";
+
 /* Función para gestionar el tamaño de letra px y convertirlo en rem */
 @function calculate-size($px, $base: $font-base) {
-    @return ($px / $base) * 1rem;
+    @return math.div($px, $base) * 1rem;
 }
 
 /* Función para iterar dentro de las llaves del objeto y retornar su valor */
