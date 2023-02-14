@@ -27,7 +27,6 @@
     "src/**/*.tsx",
     "src/**/*.jsx",
     "src/**/*.js",
-    "./setupTests.js"
   ],
   "exclude": [
     "node_modules",

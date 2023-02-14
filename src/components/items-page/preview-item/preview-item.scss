@@ -1,0 +1,47 @@
+@import '../../../styles/settings/settings.scss';
+@import '../../../styles/tools/tools.scss';
+
+.preview-item {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  text-decoration: none;
+  padding: calculate-size(16);
+  background-color: color('background', 'secondary');
+  &__img {
+    img {
+      width: calculate-size(180);
+      height: calculate-size(180);
+      border-radius: $border-radius;
+    }
+  }
+  &__detail, &__city {
+    padding-top: calculate-size(16);
+  }
+  &__detail {
+    width: 70%;
+    text-decoration: none;
+    padding-left: calculate-size(16);
+  }
+  &__price, &__name, &__city {
+    color: color('font', 'primary');
+    font-weight: normal;
+  }
+  &__price {
+    display: flex;
+    align-items: center;
+    font-size: calculate-size(24);
+    margin-bottom: calculate-size(32); 
+    img {
+      margin-left: calculate-size(10);
+      width:  calculate-size(18);
+      height: auto;
+      border-radius: $border-radius;
+    }
+  }
+  &__name {
+    text-decoration: none;
+    font-size: calculate-size(18);
+  }
+}

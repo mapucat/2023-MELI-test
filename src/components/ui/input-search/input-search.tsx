@@ -45,7 +45,7 @@ const UIInputSearch: React.FC<Props> = ({ label, value, onChange, ...rest }: Pro
         type='text'
         autoComplete='on'
       />
-      <button>
+      <button type="submit">
         <img src={Lens} alt='Ícono de búsqueda'></img>
       </button>
     </div>

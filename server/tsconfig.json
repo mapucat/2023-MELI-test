@@ -103,6 +103,7 @@
   "include": [
     "src/**/*.ts",
     "src/**/*.js",
+    "./server.ts",
     "./setupTests.js"
   ],
   "exclude": [

@@ -1,6 +1,6 @@
 import './header.scss'
 
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import React, { useState } from 'react'
 
 import Logo from '../../../assets/images/logo106x72.png'
@@ -20,36 +20,28 @@ interface Props {
 }
 
 const Header: React.FC<Props> = () => {
-  const [query, setQuery] = useState('')
-  // const navigate = useNavigate()
+  const [query, setQuery] = useState<string>('')
+  const navigate = useNavigate()
 
   /**
-   * Redirect to search page on submit
+   * Redirect to items page on submit
    */
-  const onSubmit = (): void => {
-    console.log('on Submit')
-
-    // TODO: try redirect
-    // navigate({
-    //   pathname: 'search',
-    //   search: createSearchParams({
-    //     q: query
-    //   }).toString()
-    // })
+  const handleSubmit = (): void => {
+    navigate('/items', { state: { search: query } })
   }
 
   return (
     <React.Fragment>
-    <header className='header'>
-      <div className='header__container'>
-        <Link to="/" className='header__logo'>
-          <img src={Logo} alt='Logo de mercado libre'></img>
-        </Link>
-        <form onSubmit={onSubmit}>
-          <InputSearch label='Buscar' value={query} onChange={setQuery}/>
-        </form>
-      </div>
-    </header>
+      <header className='header'>
+        <div className='header__container'>
+          <Link to="/" className='header__logo'>
+            <img src={Logo} alt='Logo de mercado libre'></img>
+          </Link>
+          <form onSubmit={handleSubmit}>
+            <InputSearch label='Buscar' value={query} onChange={setQuery} />
+          </form>
+        </div>
+      </header>
     </React.Fragment>
   )
 }
