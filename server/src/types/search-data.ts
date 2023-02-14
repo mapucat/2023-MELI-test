@@ -39,6 +39,11 @@ class PreviewItem {
   free_shipping: boolean
 
   /**
+   * item's city disponibility
+   */
+  city: string
+
+  /**
    * 
    * @param item item result from api search
    */
@@ -52,6 +57,7 @@ class PreviewItem {
     this.picture = item.thumbnail
     this.condition = item.condition
     this.free_shipping = item.shipping.free_shipping
+    this.city = item.seller_address.city.name
   }
 } 
 

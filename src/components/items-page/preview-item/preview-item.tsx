@@ -36,6 +36,7 @@ const PreviewItem: React.FC<Props> = ({ item }) => {
         </h2>
         <h3 className='preview-item__name'>{ item.title }</h3>
       </Link>
+      <p className='item__city'>{ item.city }</p>
     </article>
   )
 }

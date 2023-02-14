@@ -1,0 +1,15 @@
+@import '../../../styles/settings/settings.scss';
+@import '../../../styles/tools/tools.scss';
+
+.breadcrumb {
+  width: 100%;
+  padding: calculate-size(16) 0;
+
+  &__part {
+    font-size: calculate-size(16);
+    color: color('font', 'secondary');
+    &--bold {
+      font-weight: bold;
+    }
+  }
+}

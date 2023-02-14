@@ -34,6 +34,11 @@ export default interface IPreviewItem {
    * item has free shiping
    */
   free_shipping: boolean
+
+  /**
+   * item's city disponibility
+   */
+  city: string
 }
 
 export interface ISearchData {

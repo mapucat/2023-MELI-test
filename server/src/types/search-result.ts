@@ -9,6 +9,9 @@ export interface MELIPreviewItem {
   shipping: {
     free_shipping: boolean
   }
+  seller_address: { 
+    city: { name: string }
+  } 
 }
 
 export interface MELIFilter {

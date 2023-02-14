@@ -1,6 +1,7 @@
 import React, { useRef, useState } from 'react'
 import { useLocation } from 'react-router-dom'
 import PreviewItem from '../../components/items-page/preview-item/preview-item'
+import Breadcrumb from '../../components/ui/breadcrumb/breadcrumb'
 import { getItems } from '../../services/items.service'
 import { type SuccessResponse, type ApiResponse } from '../../types/api-response'
 import type IPreviewItem from '../../types/search-data'
@@ -20,10 +21,9 @@ interface Props {
 
 const ItemsPage: React.FC<Props> = () => {
   const location = useLocation()
-  console.log('location', location)
-
   const mounted = useRef<boolean>(false)
   const [items, setItems] = useState<IPreviewItem[]>([])
+  const [categories, setCategories] = useState<string[]>([])
 
   const getSearchValue = (): string => {
     let search = ''
@@ -39,10 +39,11 @@ const ItemsPage: React.FC<Props> = () => {
 
   if (!mounted.current) {
     const search = getSearchValue()
-    console.log('search', search)
     if (search !== '') {
       getItems(search).then(({ data: responseWrapper }: { data: ApiResponse }) => {
-        setItems((responseWrapper.response as SuccessResponse).data.items)
+        const data = (responseWrapper.response as SuccessResponse).data
+        setItems(data.items)
+        setCategories(data.categories)
       }).catch((error) => { console.dir(error) })
     }
     mounted.current = true
@@ -50,7 +51,7 @@ const ItemsPage: React.FC<Props> = () => {
 
   return (
     <section className='items-page'>
-      RRRRR
+      { categories.length > 0 && <Breadcrumb categories={ categories } /> }
       <div className='items-page__list'>
         {
           (items.length > 0)
