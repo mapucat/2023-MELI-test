@@ -2,5 +2,12 @@
     "port": 5000,
     "api": {
         "url": "https://api.mercadolibre.com/sites/MLA/"
+    },
+    "paging": {
+        "default-limit": 4
+    },
+    "author": {
+        "name": "Maria Paula",
+        "lastname": "Rodriguez Escobar"
     }
 }
