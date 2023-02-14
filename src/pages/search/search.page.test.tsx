@@ -1,5 +1,3 @@
-import React from 'react'
-
 import { renderWithRouter } from '../../helpers/test-facilities/test-facilities'
 import SearchPage from './search.page'
 

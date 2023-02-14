@@ -1,5 +1,4 @@
 import { screen } from '@testing-library/react'
-import React from 'react'
 import Header from './header'
 import { renderWithRouter } from '../../../helpers/test-facilities/test-facilities'
 
@@ -11,8 +10,8 @@ jest.mock('react-router-dom', () => ({
   useHref: jest.fn()
 }))
 
-describe('When Header is rendered', () => {
-  test('should display the required components', () => {
+describe('Header is rendered', () => {
+  test('then it should display the required components', () => {
     renderWithRouter(<Header/>)
     const header = screen.getByRole('banner')
     expect(header).toBeDefined()

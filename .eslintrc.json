@@ -4,6 +4,8 @@
     "es2021": true
   },
   "extends": [
+    "react-app",
+    "react-app/jest",
     "plugin:react/recommended",
     "standard-with-typescript"
   ],
@@ -30,6 +32,7 @@
     "no-console": "off",
     "no-debugger": "warn",
     "@typescript-eslint/explicit-module-boundary-types": "off",
-    "@typescript-eslint/quotes": "off"
+    "@typescript-eslint/quotes": "off",
+    "@typescript-eslint/consistent-type-assertions": "off"
   }
 }

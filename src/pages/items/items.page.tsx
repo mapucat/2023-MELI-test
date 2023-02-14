@@ -26,15 +26,8 @@ const ItemsPage: React.FC<Props> = () => {
   const [categories, setCategories] = useState<string[]>([])
 
   const getSearchValue = (): string => {
-    let search = ''
     const queryParam = new URLSearchParams(location.search).get('search')
-    const searchLocation = location.state?.search
-    if (queryParam !== null) {
-      search = queryParam
-    } else if (searchLocation !== null) {
-      search = searchLocation
-    }
-    return search
+    return (queryParam !== null) ? queryParam : ''
   }
 
   if (!mounted.current) {

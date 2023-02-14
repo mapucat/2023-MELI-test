@@ -10,7 +10,7 @@ import { CustomError } from '../types/custom-error'
  * @param {*} req
  * @param {*} res
  */
-export const getItemsList = async (req: Request, res: Response) => {
+export const getItemsList = async (req: Request, res: Response<ApiResponse>) => {
   try {
     res.send({
       meta: {
