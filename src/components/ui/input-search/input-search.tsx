@@ -20,12 +20,17 @@ interface Props {
   onChange: (value: string) => void
 
   /**
+   * On change
+   */
+  onClick: () => void
+
+  /**
    * Additional properties
    */
   [x: string]: any
 }
 
-const UIInputSearch: React.FC<Props> = ({ label, value, onChange, ...rest }: Props) => {
+const UIInputSearch: React.FC<Props> = ({ label, value, onChange, onClick }: Props) => {
   /**
    * Gets event and passes it to the onChange function
    * @param event - initial onChange event
@@ -36,7 +41,7 @@ const UIInputSearch: React.FC<Props> = ({ label, value, onChange, ...rest }: Pro
   }
 
   return (
-    <div className='ui-input-search' {...rest}>
+    <div className='ui-input-search'>
       <input
         aria-label={label}
         value={value}
@@ -45,7 +50,7 @@ const UIInputSearch: React.FC<Props> = ({ label, value, onChange, ...rest }: Pro
         type='text'
         autoComplete='on'
       />
-      <button type="submit">
+      <button onClick={() => { onClick() }}>
         <img src={Lens} alt='Ícono de búsqueda'></img>
       </button>
     </div>

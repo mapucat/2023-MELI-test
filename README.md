@@ -9,7 +9,6 @@ Client side files are defined as the principal folder structure and server files
 ## Actual State
 
 There are some details that needs to be done:
- - Add useContext to navigation: To resolve query params redirection and keep categories value to be loaded in ItemDetailPage.
  - Add test to server, probably I would need to remove axios library from server (there is some type of incompatibility between axios and jest).
  - Update cypress tests
 

@@ -27,7 +27,7 @@ const Header: React.FC<Props> = () => {
    * Redirect to items page on submit
    */
   const handleSubmit = (): void => {
-    navigate('/items', { state: { search: query } })
+    navigate(`/items?search=${query}`)
   }
 
   return (
@@ -37,9 +37,9 @@ const Header: React.FC<Props> = () => {
           <Link to="/" className='header__logo'>
             <img src={Logo} alt='Logo de mercado libre'></img>
           </Link>
-          <form onSubmit={handleSubmit}>
-            <InputSearch label='Buscar' value={query} onChange={setQuery} />
-          </form>
+          <span>
+            <InputSearch label='Buscar' value={query} onChange={setQuery} onClick={handleSubmit}/>
+          </span>
         </div>
       </header>
     </React.Fragment>

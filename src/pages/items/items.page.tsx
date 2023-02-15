@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { useLocation } from 'react-router-dom'
 import PreviewItem from '../../components/items-page/preview-item/preview-item'
 import Breadcrumb from '../../components/ui/breadcrumb/breadcrumb'
@@ -21,18 +21,12 @@ interface Props {
 
 const ItemsPage: React.FC<Props> = () => {
   const location = useLocation()
-  const mounted = useRef<boolean>(false)
   const [items, setItems] = useState<IPreviewItem[]>([])
   const [categories, setCategories] = useState<string[]>([])
 
-  const getSearchValue = (): string => {
-    const queryParam = new URLSearchParams(location.search).get('search')
-    return (queryParam !== null) ? queryParam : ''
-  }
-
-  if (!mounted.current) {
-    const search = getSearchValue()
-    if (search !== '') {
+  useEffect(() => {
+    const search = new URLSearchParams(location.search).get('search')
+    if (search !== null) {
       getItems(search)
         .then((responseWrapper: ApiResponse) => {
           const data = (responseWrapper.response as SuccessResponse).data
@@ -40,23 +34,21 @@ const ItemsPage: React.FC<Props> = () => {
           setCategories(data.categories)
         }).catch((error) => { console.dir(error) })
     }
-    mounted.current = true
-  }
+  }, [location.search])
 
   return (
     <section className='items-page'>
-      { categories.length > 0 && <Breadcrumb categories={ categories } /> }
+      {categories.length > 0 && <Breadcrumb categories={categories} />}
       <div className='items-page__list'>
         {
-          (items.length > 0)
-            ? items.map((item: IPreviewItem, index) =>
-              <React.Fragment key={item.id}>
-                <PreviewItem item={item}/>
-                { index !== items.length - 1
-                  ? <hr className='items-page__divider'/>
-                  : null }
-              </React.Fragment>)
-            : null }
+          (items.length > 0) &&
+          items.map((item: IPreviewItem, index) =>
+            <React.Fragment key={item.id}>
+              <PreviewItem item={item} />
+              {index !== items.length - 1 &&
+                <hr className='items-page__divider' />}
+            </React.Fragment>)
+        }
       </div>
     </section>
   )
