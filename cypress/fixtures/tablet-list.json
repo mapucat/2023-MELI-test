@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "status": 200,
+    "message": "Data found"
+  },
+  "response": {
+    "success": true,
+    "data": {
+      "author": {
+        "name": "Maria Paula",
+        "lastname": "Rodriguez Escobar"
+      },
+      "categories": [
+        "Computación",
+        "Tablets y Accesorios",
+        "Tablets"
+      ],
+      "items": [
+        {
+          "id": "MLA1119462616",
+          "title": "Tablet  Samsung Galaxy Tab A A7 Lite Sm-t220 8.7  32gb Plateada Y 3gb De Memoria Ram",
+          "price": {
+            "currency": "ARS",
+            "amount": 53999
+          },
+          "picture": "http://http2.mlstatic.com/D_909806-MLA47146793018_082021-I.jpg",
+          "condition": "new",
+          "free_shipping": true,
+          "city": "Villa Celina"
+        },
+        {
+          "id": "MLA1119449548",
+          "title": "Tablet  Samsung Galaxy Tab A A7 Lite Sm-t220 8.7  32gb Gris Y 3gb De Memoria Ram",
+          "price": {
+            "currency": "ARS",
+            "amount": 53999
+          },
+          "picture": "http://http2.mlstatic.com/D_765874-MLA47146197629_082021-I.jpg",
+          "condition": "new",
+          "free_shipping": true,
+          "city": "Villa Celina"
+        },
+        {
+          "id": "MLA881082436",
+          "title": "Tablet  Con Funda Gadnic Taurus Phone Tab0024c 10.1  Con Red Móvil 32gb Blanca Y 2gb De Memoria Ram",
+          "price": {
+            "currency": "ARS",
+            "amount": 34049
+          },
+          "picture": "http://http2.mlstatic.com/D_924623-MLA48689881984_122021-I.jpg",
+          "condition": "new",
+          "free_shipping": true,
+          "city": "Villa Ortúzar"
+        },
+        {
+          "id": "MLA1276190793",
+          "title": "Apple iPad (9ª Generación) 10.2  Wi-fi 64gb - Gris Espacial",
+          "price": {
+            "currency": "ARS",
+            "amount": 132490
+          },
+          "picture": "http://http2.mlstatic.com/D_994609-MLA47871010530_102021-I.jpg",
+          "condition": "new",
+          "free_shipping": true,
+          "city": "San Telmo"
+        }
+      ]
+    }
+  }
+}

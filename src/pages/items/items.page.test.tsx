@@ -4,6 +4,7 @@ import { renderWithRouter } from '../../helpers/test-facilities/test-facilities'
 import { type ApiResponse } from '../../types/api-response.d'
 import * as itemService from '../../services/items.service'
 import ItemsPage from './items.page'
+import { act } from 'react-dom/test-utils'
 
 const response = {
   meta: { status: 200, message: "Data found" },
@@ -35,7 +36,8 @@ describe('ItemsPage is rendered', () => {
   })
 
   test('when search query param is NOT setted then it should display none components', async () => {
-    renderWithRouter(<ItemsPage />, { route: '/items?search=' })
+    renderWithRouter(<ItemsPage />)
+    act(() => { window.history.pushState({}, 'Test page', '/items?search=') })
     // Breadcrumb
     await waitFor(() => expect(screen.queryByText('Celulares y Teléfonos >')).toBeNull())
     await waitFor(() => expect(screen.queryByText('Celulares y Smartphones')).toBeNull())

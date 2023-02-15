@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "status": 200,
+    "message": "Data found"
+  },
+  "response": {
+    "success": true,
+    "data": {
+      "author": {
+        "name": "Maria Paula",
+        "lastname": "Rodriguez Escobar"
+      },
+      "item": {
+        "id": "MLA1119462616",
+        "title": "Tablet  Samsung Galaxy Tab A A7 Lite Sm-t220 8.7  32gb Plateada Y 3gb De Memoria Ram",
+        "price": {
+          "currency": "ARS",
+          "amount": 53999
+        },
+        "picture": "http://http2.mlstatic.com/D_909806-MLA47146793018_082021-O.jpg",
+        "condition": "new",
+        "free_shipping": true,
+        "sold_quantity": 5000,
+        "description": "Esta tablet Samsung es la compañera ideal, con capacidad de sobra para cada una de tus actividades. El diseño delgado, compacto y portátil, con facilidad para sostener en una mano, lo convierte en una combinación perfecta de rendimiento y versatilidad.\n\nTransferir, sincronizar y acceder a tus dispositivos las veces que quieras ahora es posible. Sus conexiones wi-fi, wi-fi direct, bluetooth, usb-c te permiten potenciar sus funciones al máximo.\n\nGracias a su cámara principal de 8 Mpx y frontal de 2 Mpx, podrás hacer videollamadas o sacarte fotos en cualquier momento y lugar, con una excelente calidad de imagen. Nitidez, brillo y colores vibrantes harán que tus experiencias se reflejen de manera óptima."
+      }
+    }
+  }
+}

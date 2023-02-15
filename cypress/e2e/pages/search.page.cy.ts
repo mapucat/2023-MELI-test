@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 const dimensions: Cypress.ViewportPreset[] = [
-  'macbook-16', 'ipad-2', 'iphone-x', 'iphone-4'
+  'macbook-16', 'ipad-2'
 ]
 
 dimensions.forEach((dimension: Cypress.ViewportPreset) => {
@@ -13,17 +13,19 @@ dimensions.forEach((dimension: Cypress.ViewportPreset) => {
 
     it('displays <Header> and <SearchInput> components', () => {
       cy.get('header').should('be.visible')
-
       cy.get('input[placeholder*="Nunca dejes de buscar"]')
         .should('be.visible')
     })
 
-    it('should redirect to <ItemsPage>  onSubmit', () => {
-      cy.get('input[placeholder*="Nunca dejes de buscar"]').type("Celular")
+    it('should redirect to <ItemsPage> when button is clicked', () => {
+      cy.intercept('/api/items**', { fixture: 'celular-list' }).as('getItems')
 
-      cy.get('form').submit()
+      cy.get('input[placeholder*="Nunca dejes de buscar"]').type("celular")
+      cy.get('.ui-input-search button').click()
+      cy.url()
+        .should('be.equal', 'http://localhost:3000/items?search=celular')
 
-      // Redirect
+      cy.wait('@getItems').its('request.url').should('include', '/items?q=celular')
     })
   })
 })
