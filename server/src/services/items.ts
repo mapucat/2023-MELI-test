@@ -2,8 +2,8 @@ import axios from 'axios'
 import { CommonCustomError } from "../types/custom-error"
 
 import { getConfig } from '../helpers/get-config/get-config'
-import { SearchResponse } from '../types/search-data'
-import MELISearchResult from '../types/search-result'
+import { SearchResponse } from '../types/search-response'
+import MELISearchResult from '../types/meli-search-result'
 
 /**
  * Get items given a seach query

@@ -1,4 +1,4 @@
-import MELISearchResult, { MELIFilter, MELIPreviewItem } from "./search-result"
+import MELISearchResult, { MELIFilter, MELIPreviewItem } from "./meli-search-result"
 import { getConfig } from '../helpers/get-config/get-config'
 
 /**
