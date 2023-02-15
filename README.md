@@ -6,6 +6,22 @@ Contains two projects: client and server coded using React and Nodejs along with
 
 Client side files are defined as the principal folder structure and server files are inside `server/` dir.
 
+## Actual State
+
+There are some details that needs to be done:
+ - Add useContext to navigation: To resolve query params redirection and keep categories value to be loaded in ItemDetailPage.
+ - Add test to server, probably I would need to remove axios library from server (there is some type of incompatibility between axios and jest).
+ - Update cypress tests
+
+### search
+![Search Page](./public/readme/screenshot-search.png)
+
+### items
+![Items Page](./public//readme/screenshot-items.png)
+
+### items/:id
+![Item Detail Page](./public//readme/screenshot-item-detail.png)
+
 ## Requirements
 
 You will need: 
