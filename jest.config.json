@@ -12,5 +12,12 @@
     "statements": 0
     }
   },
-  "moduleDirectories": ["node_modules", "src"]
+  "moduleDirectories": ["node_modules", "src"],
+  "transformIgnorePatterns": [
+    "<rootDir>/server/node_modules/"
+  ],
+  "preset": "ts-jest",
+  "transform": {
+    "^.+\\.tsx?$": "ts-jest"
+  }
 }

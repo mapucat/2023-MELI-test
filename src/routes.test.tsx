@@ -1,7 +1,5 @@
 import { screen } from '@testing-library/react'
-
 import { renderWithRouter } from './helpers/test-facilities/test-facilities'
-
 import PagesRoutes from './routes'
 
 describe('When PageRoutes is rendered', () => {

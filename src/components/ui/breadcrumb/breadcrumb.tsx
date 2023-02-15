@@ -27,6 +27,7 @@ const UIBreadcrumb: React.FC<Props> = ({ categories }) => {
       }
     })
     setBreadcrumb(breadcrumbItems)
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   return (

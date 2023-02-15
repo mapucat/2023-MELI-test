@@ -1,4 +1,3 @@
-import { type HttpStatusCode } from "axios"
 import { type ISearchData } from "./search-data"
 
 export interface ApiResponse {
@@ -7,7 +6,7 @@ export interface ApiResponse {
 }
 
 export interface Meta {
-  status: HttpStatusCode
+  status: number
   message: string
 }
 

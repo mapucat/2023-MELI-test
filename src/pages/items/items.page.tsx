@@ -33,11 +33,12 @@ const ItemsPage: React.FC<Props> = () => {
   if (!mounted.current) {
     const search = getSearchValue()
     if (search !== '') {
-      getItems(search).then(({ data: responseWrapper }: { data: ApiResponse }) => {
-        const data = (responseWrapper.response as SuccessResponse).data
-        setItems(data.items)
-        setCategories(data.categories)
-      }).catch((error) => { console.dir(error) })
+      getItems(search)
+        .then((responseWrapper: ApiResponse) => {
+          const data = (responseWrapper.response as SuccessResponse).data
+          setItems(data.items)
+          setCategories(data.categories)
+        }).catch((error) => { console.dir(error) })
     }
     mounted.current = true
   }
