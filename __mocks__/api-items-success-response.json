@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "status": 200,
+    "message": "Data found"
+  },
+  "response": {
+    "success": true,
+    "data": {
+      "author": {
+        "name": "Maria Paula",
+        "lastname": "Rodriguez Escobar"
+      },
+      "categories": [
+        "Celulares y Teléfonos",
+        "Celulares y Smartphones"
+      ],
+      "items": [
+        {
+          "id": "MLA1184760504",
+          "title": "Quantum Q20 Dual Sim 128 Gb  Azul 4 Gb Ram",
+          "price": {
+            "currency": "ARS",
+            "amount": 38999
+          },
+          "picture": "http://http2.mlstatic.com/D_919873-MLA50185644201_062022-I.jpg",
+          "condition": "new",
+          "free_shipping": true,
+          "city": "Villa Urquiza"
+        },
+        {
+          "id": "MLA1300492340",
+          "title": " Moto E20 32 Gb  Gris Grafito 2 Gb Ram",
+          "price": {
+            "currency": "ARS",
+            "amount": 42999
+          },
+          "picture": "http://http2.mlstatic.com/D_832761-MLA48048712904_102021-I.jpg",
+          "condition": "new",
+          "free_shipping": true,
+          "city": "Córdoba"
+        },
+        {
+          "id": "MLA1128679881",
+          "title": "Zte Blade V30 Vita 128 Gb  Gris 3 Gb Ram",
+          "price": {
+            "currency": "ARS",
+            "amount": 44999
+          },
+          "picture": "http://http2.mlstatic.com/D_857357-MLA52130650460_102022-I.jpg",
+          "condition": "new",
+          "free_shipping": true,
+          "city": "C.A.B.A"
+        },
+        {
+          "id": "MLA1266352786",
+          "title": "Telefono Celular Alcatel 3h Plus 64gb 3gb Ram Space Gray",
+          "price": {
+            "currency": "ARS",
+            "amount": 39299
+          },
+          "picture": "http://http2.mlstatic.com/D_630013-MLA50879230016_072022-I.jpg",
+          "condition": "new",
+          "free_shipping": true,
+          "city": "C.A.B.A"
+        }
+      ]
+    }
+  }
+}

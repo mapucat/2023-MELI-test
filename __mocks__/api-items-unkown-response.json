@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "status": 500,
+    "message": "Configuration property \"api.url\" is not defined"
+  },
+  "response": {
+    "success": false,
+    "stringError": "{}"
+  }
+}

@@ -1,4 +1,4 @@
-import { type ApiResponse } from '../types/api-response'
+import { type ApiResponse } from '../types/api-response.d'
 
 /**
    * Get items list given a search param
@@ -6,6 +6,4 @@ import { type ApiResponse } from '../types/api-response'
    */
 export const getItems = async (q: string): Promise<ApiResponse> =>
   await fetch(`/api/items?q=${q}`)
-    .then(async (response) => {
-      return await response.json()
-    })
+    .then(async (response) => await response.json())

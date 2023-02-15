@@ -2,7 +2,7 @@ import { screen } from '@testing-library/react'
 import React from 'react'
 import PreviewItem from './preview-item'
 import { renderWithRouter } from '../../../helpers/test-facilities/test-facilities'
-import type IPreviewItem from '../../../types/search-data'
+import type IPreviewItem from '../../../types/search-data.d'
 
 const mockedUsedNavigate = jest.fn()
 

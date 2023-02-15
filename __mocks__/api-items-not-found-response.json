@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "status": 400,
+    "message": "No results matching your search criteria. Please modify your search and try again."
+  },
+  "response": {
+    "success": false,
+    "stringError": null
+  }
+}

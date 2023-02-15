@@ -1,4 +1,4 @@
-import { type ISearchData } from "./search-data"
+import { type ISearchData } from "./search-data.d"
 
 export interface ApiResponse {
   response: SuccessResponse | ErrorResponse

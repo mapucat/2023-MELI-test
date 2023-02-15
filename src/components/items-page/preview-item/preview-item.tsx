@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { currencyFormat } from '../../../helpers/currency/currency'
 import FreeShippingImg from '../../../assets/images/shipping18.png'
-import type IPreviewItem from '../../../types/search-data'
+import type IPreviewItem from '../../../types/search-data.d'
 import './preview-item.scss'
 
 interface Props {

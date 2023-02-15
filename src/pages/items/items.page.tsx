@@ -3,8 +3,8 @@ import { useLocation } from 'react-router-dom'
 import PreviewItem from '../../components/items-page/preview-item/preview-item'
 import Breadcrumb from '../../components/ui/breadcrumb/breadcrumb'
 import { getItems } from '../../services/items.service'
-import { type SuccessResponse, type ApiResponse } from '../../types/api-response'
-import type IPreviewItem from '../../types/search-data'
+import { type SuccessResponse, type ApiResponse } from '../../types/api-response.d'
+import type IPreviewItem from '../../types/search-data.d'
 import './items.page.scss'
 
 interface Props {
