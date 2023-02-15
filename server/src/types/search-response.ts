@@ -93,8 +93,4 @@ export class SearchResponse {
     const categoryList = filters.find((element) => element.id === 'category')?.values[0].path_from_root
     return categoryList?.map((value) => value.name) || []
   }
-
-  static IsEmpty(searchResponse: SearchResponse | null): boolean {
-    return !searchResponse || !searchResponse?.items?.length
-  }
 }

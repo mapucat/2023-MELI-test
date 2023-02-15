@@ -1,14 +1,14 @@
 import { HttpStatusCode } from 'axios'
 import { Request, Response } from 'express'
 import { getConfig } from '../helpers/get-config/get-config'
-import { searchItems } from '../services/search-items'
+import { generateErrorResponse } from '../helpers/error-response/error-response'
+import { getItem, searchItems } from '../services/items'
 import { ApiResponse } from '../types/api-response'
-import { CustomError } from '../types/custom-error'
 
 /**
  * Get items given a query param
- * @param {*} req
- * @param {*} res
+ * @param {*} req request
+ * @param {*} res response
  */
 export const getItemsList = async (req: Request, res: Response<ApiResponse>) => {
   try {
@@ -25,18 +25,30 @@ export const getItemsList = async (req: Request, res: Response<ApiResponse>) => 
       }
     });
   } catch (error: any) {
-    const status = error instanceof CustomError ? error.httpStatusCode : HttpStatusCode.InternalServerError
-    const stringError = (error instanceof CustomError ? JSON.stringify(error.initialError) : JSON.stringify(error)) || null
-    const response: ApiResponse = {
+    const { status, response } = generateErrorResponse(error)
+    res.status(status).send(response)
+  }
+}
+
+/**
+ * Get item with description attached given a query string param
+ * @param {*} req request
+ * @param {*} res response
+ */
+export const getItemWithDetails = async (req: Request, res: Response<ApiResponse>) => {
+  try {
+    res.send({
       meta: {
-        status,
-        message: error.message
+        status: HttpStatusCode.Ok,
+        message: 'Data found'
       },
       response: {
-        success: false,
-        stringError
+        success: true,
+        data:  await getItem(req.params.uid)
       }
-    }
-    res.status(status).send(response)
+    });
+  } catch(error: any) {
+    const { status, response } = generateErrorResponse(error)
+    res.status(status).send(response)    
   }
 }
