@@ -12,7 +12,7 @@ export interface Meta {
 
 export interface SuccessResponse {
   success: true
-  data: ISearchData
+  data: ISearchData | IItemDetail
 }
 
 export interface ErrorResponse {

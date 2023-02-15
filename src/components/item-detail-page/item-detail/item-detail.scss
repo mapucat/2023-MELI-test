@@ -1,0 +1,62 @@
+@import '../../../styles/settings/settings.scss';
+@import '../../../styles/tools/tools.scss';
+
+.item-detail {
+  padding: calculate-size(32);
+  background-color: color('background', 'secondary');
+  display: flex;
+  align-items: stretch;
+  
+  &__main {
+    width: 60%;
+  }
+
+  &__img {
+    width: 70%;
+    height: auto;
+    max-width: calculate-size(680);
+    margin: 0 auto;
+    display: block;
+  }
+
+  &__description {
+    h4 {
+      font-size: calculate-size(28);
+      color: color('font', 'terciary');
+      font-weight: normal;
+      padding-bottom: calculate-size(32);
+    }
+    p {
+      font-size: calculate-size(16);
+      color: color('font', 'secondary');
+    }
+  }
+
+  &__basic-info {
+    width: 40%;
+    p {
+      font-size: calculate-size(14);
+      color: color('font', 'secondary');
+      padding-bottom: calculate-size(16);
+    }
+    h3, h2 {
+      color: color('font', 'primary');
+    }
+    h3 {
+      font-size: calculate-size(24);
+    }
+    h2 {
+      padding: calculate-size(32) 0;
+      font-size: calculate-size(46);
+      font-weight: normal;
+    }
+  }
+
+  button {
+    width: 100%;
+    padding: calculate-size(16);
+    border-radius: $border-radius;
+    color: color('font', 'white');
+    background-color: color('button', 'secondary');
+  }
+}
