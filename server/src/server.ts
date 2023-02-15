@@ -1,4 +1,3 @@
-import { HttpStatusCode } from 'axios'
 import express, { Express, Request, Response } from 'express'
 import { getConfig } from './helpers/get-config/get-config'
 
@@ -8,9 +7,17 @@ import { CommonCustomError } from './types/custom-error'
 
 const app: Express = express()
 const port = getConfig('port')
+const logger = require('pino-http')({
+  transport: {
+    target: 'pino-pretty',
+    options: {
+      colorize: true
+    }
+  }
+})
 
+app.use(logger)
 app.use('/api', routes)
-
 app.all('**', (req: Request, res: Response<ApiResponse>) => {
   const error = CommonCustomError.getNoDataFoundError()
   res.status(error.httpStatusCode).send({
@@ -26,5 +33,5 @@ app.all('**', (req: Request, res: Response<ApiResponse>) => {
 });
 
 app.listen(port, () => {
-  console.log(`[Server]: I am running at https://localhost:${port}`)
+  console.log(`[Server]: Running at https://localhost:${port}`)
 })

@@ -1,7 +1,8 @@
 {
     "port": 5000,
     "api": {
-        "url": "https://api.mercadolibre.com/sites/MLA/"
+        "mainUrl": "https://api.mercadolibre.com",
+        "urlComplement": "sites/MLA"
     },
     "paging": {
         "default-limit": 4

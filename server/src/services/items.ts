@@ -18,7 +18,7 @@ export const searchItems = async (q: string, limit: number): Promise<SearchRespo
     throw CommonCustomError.getEmptyQueryError()
   }
   const { data: searchResult }: { data: MELISearchResult } = 
-    await axios.get(`${getConfig('api.mainUrl')}${getConfig('api.urlComplement')}/search`, {
+    await axios.get(`${getConfig('api.mainUrl')}/${getConfig('api.urlComplement')}/search`, {
       params: { q, limit }
     })
     .catch((error: AxiosError) => {
