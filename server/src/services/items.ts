@@ -24,8 +24,8 @@ export const searchItems = async (q: string, limit: number): Promise<SearchRespo
     .catch((error: AxiosError) => {
       if (error.response?.status === HttpStatusCode.NotFound) throw CommonCustomError.getNoDataFoundError(error)
       throw CommonCustomError.getUnkownError(error)
-    });
-  if (searchResult.results.length < 0) {
+    })
+  if (searchResult.results.length === 0) {
     throw CommonCustomError.getNoDataFoundError()
   }
   return new SearchResponse(searchResult)
@@ -59,11 +59,12 @@ export const getItemDescription = async (id: string): Promise<MELIItemDescriptio
   if (id === null || id === undefined || id.length === 0) {
     throw CommonCustomError.getEmptyQueryError()
   }
-  const { data: itemDescriptionResult }: { data: MELIItemDescriptionResult} =
+  const { data: itemDescriptionResult }: { data: MELIItemDescriptionResult } =
     await axios.get<MELIItemDescriptionResult>(`${getConfig('api.mainUrl')}/items/${id}/description`)
       .catch((error: AxiosError) => {
         if (error.response?.status === HttpStatusCode.NotFound) throw CommonCustomError.getNoDataFoundError(error)
         throw CommonCustomError.getUnkownError(error)
       })
+  if (itemDescriptionResult.status === HttpStatusCode.NotFound) throw CommonCustomError.getNoDataFoundError()
   return itemDescriptionResult
 }

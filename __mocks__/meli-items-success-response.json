@@ -1,0 +1,7320 @@
+{
+  "site_id": "MLA",
+  "country_default_time_zone": "GMT-03:00",
+  "query": "celular",
+  "paging": {
+    "total": 39993,
+    "primary_results": 1000,
+    "offset": 0,
+    "limit": 4
+  },
+  "results": [
+    {
+      "id": "MLA1179557384",
+      "title": "Tcl 30e 64 Gb  Space Gray 3 Gb Ram",
+      "condition": "new",
+      "thumbnail_id": "725392-MLA51542352177_092022",
+      "catalog_product_id": "MLA19597705",
+      "listing_type_id": "gold_special",
+      "permalink": "https://www.mercadolibre.com.ar/tcl-30e-64-gb-space-gray-3-gb-ram/p/MLA19597705",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "http://http2.mlstatic.com/D_725392-MLA51542352177_092022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 1,
+      "price": 34999,
+      "original_price": 42999,
+      "sale_price": null,
+      "sold_quantity": 150,
+      "available_quantity": 200,
+      "official_store_id": 82,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "ahora-paid-by-buyer",
+        "deal_of_the_day",
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "best_seller_candidate"
+      ],
+      "shipping": {
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "fbm_in_process",
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-12-23T14:33:39.000Z",
+      "seller": {
+        "id": 109569068,
+        "nickname": "MEGATONE",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "_": false,
+        "registration_date": "2012-04-17T14:27:42.000-04:00",
+        "tags": [
+          "brand",
+          "large_seller",
+          "developer",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/MEGATONE",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 2745,
+            "completed": 31710,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.04,
+              "neutral": 0.09,
+              "positive": 0.87
+            },
+            "total": 34455
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 6082
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0115,
+              "value": 76
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0602,
+              "value": 186
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0066,
+              "value": 44
+            }
+          }
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ0NBTTQ1Mjc",
+          "name": "Campana"
+        }
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ0NBTTQ1Mjc",
+        "city_name": "Campana"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "16457",
+          "value_name": "TCL",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "16457",
+              "name": "TCL",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "GPU_MODEL",
+          "name": "Modelo de GPU",
+          "value_id": "8852376",
+          "value_name": "IMG GE8320",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "8852376",
+              "name": "IMG GE8320",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "-1",
+          "value_name": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "-1",
+              "name": null,
+              "struct": null,
+              "source": 3376461333454861
+            }
+          ],
+          "source": 3376461333454861,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "13149000",
+          "value_name": "30E",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "13149000",
+              "name": "30E",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "PROCESSOR_MODEL",
+          "name": "Modelo del procesador",
+          "value_id": "11366988",
+          "value_name": "MediaTek MT6762G Helio G25",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "11366988",
+              "name": "MediaTek MT6762G Helio G25",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "1365",
+          "value_name": "190 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 190,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": "1365",
+              "name": "190 g",
+              "struct": {
+                "number": 190,
+                "unit": "g"
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 8653.5,
+        "rate": 48.35,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": [],
+      "inventory_id": "GBGD02912"
+    },
+    {
+      "id": "MLA1146703279",
+      "title": "Samsung Galaxy A03 32 Gb  Azul 3 Gb Ram",
+      "condition": "new",
+      "thumbnail_id": "719701-MLA52148554305_102022",
+      "catalog_product_id": "MLA18955021",
+      "listing_type_id": "gold_pro",
+      "permalink": "https://www.mercadolibre.com.ar/samsung-galaxy-a03-32-gb-azul-3-gb-ram/p/MLA18955021",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "http://http2.mlstatic.com/D_719701-MLA52148554305_102022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 2,
+      "price": 52999,
+      "original_price": null,
+      "sale_price": null,
+      "sold_quantity": 150,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "3x_campaign",
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "mshops_3x_campaign",
+        "standard_price_by_channel",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "shipping": {
+        "logistic_type": "fulfillment",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "fulfillment",
+          "self_service_out",
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-10-26T12:54:47.000Z",
+      "seller": {
+        "id": 185702920,
+        "nickname": "ITECOM DIGITAL",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "_": false,
+        "registration_date": "2015-06-16T14:24:23.000-04:00",
+        "tags": [
+          "normal",
+          "credits_profile",
+          "eshop",
+          "mshops",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/ITECOM+DIGITAL",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 5782,
+            "completed": 81774,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0.03,
+              "positive": 0.94
+            },
+            "total": 87556
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 11451
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0124,
+              "value": 152
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0109,
+              "value": 127
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0058,
+              "value": 72
+            }
+          }
+        },
+        "eshop": {
+          "eshop_id": 345870,
+          "seller": 185702920,
+          "nick_name": "ITECOM DIGITAL",
+          "eshop_status_id": 1,
+          "site_id": "MLA",
+          "eshop_experience": 0,
+          "eshop_rubro": null,
+          "eshop_locations": [],
+          "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/185702920vd9a1fe.png"
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQk1PTjE2OTBa",
+          "name": "Monte Castro"
+        }
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQk1PTjE2OTBa",
+        "city_name": "Monte Castro"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "206",
+          "value_name": "Samsung",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "206",
+              "name": "Samsung",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "source": 6808261514773724,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "322977",
+          "value_name": "Galaxy A",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "322977",
+              "name": "Galaxy A",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "231612",
+          "value_name": "A03",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "231612",
+              "name": "A03",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "PACKAGE_LENGTH",
+          "name": "Largo del paquete",
+          "value_id": null,
+          "value_name": "17.4 cm",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 17.4,
+            "unit": "cm"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "17.4 cm",
+              "struct": {
+                "number": 17.4,
+                "unit": "cm"
+              },
+              "source": 4333789534002961
+            }
+          ],
+          "source": 4333789534002961,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "PACKAGE_WEIGHT",
+          "name": "Peso del paquete",
+          "value_id": null,
+          "value_name": "320 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 320,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "320 g",
+              "struct": {
+                "number": 320,
+                "unit": "g"
+              },
+              "source": 4333789534002961
+            }
+          ],
+          "source": 4333789534002961,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "3044472",
+          "value_name": "196 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 196,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": "3044472",
+              "name": "196 g",
+              "struct": {
+                "number": 196,
+                "unit": "g"
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        }
+      ],
+      "installments": {
+        "quantity": 3,
+        "amount": 17666.33,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": [],
+      "differential_pricing": {
+        "id": 35713320
+      },
+      "inventory_id": "JOMW38567"
+    },
+    {
+      "id": "MLA1167769671",
+      "title": "Celular Samsung Galaxy A13 128gb + 4gb Ram Pls Lcd Negro",
+      "condition": "new",
+      "thumbnail_id": "917545-MLA50401654103_062022",
+      "catalog_product_id": "MLA19147042",
+      "listing_type_id": "gold_pro",
+      "permalink": "https://www.mercadolibre.com.ar/celular-samsung-galaxy-a13-128gb-4gb-ram-pls-lcd-negro/p/MLA19147042",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "http://http2.mlstatic.com/D_917545-MLA50401654103_062022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 3,
+      "price": 73999,
+      "original_price": 77999,
+      "sale_price": null,
+      "sold_quantity": 5000,
+      "available_quantity": 1,
+      "official_store_id": 1938,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "deal_of_the_day",
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "ahora-6",
+        "immediate_payment",
+        "cart_eligible",
+        "best_seller_candidate",
+        "meli_choice_candidate",
+        "shipping_guaranteed"
+      ],
+      "shipping": {
+        "logistic_type": "fulfillment",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "fulfillment",
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-11-13T21:44:39.000Z",
+      "seller": {
+        "id": 608846165,
+        "nickname": "MERCADOLIBRE ELECTRONICA_AR",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "_": false,
+        "registration_date": "2020-07-13T13:21:30.000-04:00",
+        "tags": [
+          "brand",
+          "large_seller",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+ELECTRONICA_AR",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 47516,
+            "completed": 760806,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.09,
+              "neutral": 0.01,
+              "positive": 0.9
+            },
+            "total": 808322
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 107341
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0093,
+              "value": 1067
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 0
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 0
+            }
+          }
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Villa Celina"
+        }
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Villa Celina"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "206",
+          "value_name": "Samsung",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "206",
+              "name": "Samsung",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "DETAILED_MODEL",
+          "name": "Modelo detallado",
+          "value_id": "-1",
+          "value_name": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "-1",
+              "name": null,
+              "struct": null,
+              "source": 3376461333454861
+            }
+          ],
+          "source": 3376461333454861,
+          "value_type": "string"
+        },
+        {
+          "id": "GPU_MODEL",
+          "name": "Modelo de GPU",
+          "value_id": "9937503",
+          "value_name": "Mali-G57",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "9937503",
+              "name": "Mali-G57",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "322977",
+          "value_name": "Galaxy A",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "322977",
+              "name": "Galaxy A",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "54218",
+          "value_name": "A13",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "54218",
+              "name": "A13",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "PACKAGE_LENGTH",
+          "name": "Largo del paquete",
+          "value_id": null,
+          "value_name": "17.2 cm",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 17.2,
+            "unit": "cm"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "17.2 cm",
+              "struct": {
+                "unit": "cm",
+                "number": 17.2
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "PACKAGE_WEIGHT",
+          "name": "Peso del paquete",
+          "value_id": null,
+          "value_name": "320 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 320,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "320 g",
+              "struct": {
+                "number": 320,
+                "unit": "g"
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "PROCESSOR_MODEL",
+          "name": "Modelo del procesador",
+          "value_id": "8820288",
+          "value_name": "Exynos 850",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "8820288",
+              "name": "Exynos 850",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "1095137",
+          "value_name": "195 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 195,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": "1095137",
+              "name": "195 g",
+              "struct": {
+                "number": 195,
+                "unit": "g"
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 12333.17,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": [],
+      "differential_pricing": {
+        "id": 35713299
+      },
+      "inventory_id": "JLHN88100"
+    },
+    {
+      "id": "MLA1300492340",
+      "title": " Moto E20 32 Gb  Gris Grafito 2 Gb Ram",
+      "condition": "new",
+      "thumbnail_id": "832761-MLA48048712904_102021",
+      "catalog_product_id": "MLA18576330",
+      "listing_type_id": "gold_special",
+      "permalink": "https://www.mercadolibre.com.ar/moto-e20-32-gb-gris-grafito-2-gb-ram/p/MLA18576330",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA1055",
+      "domain_id": "MLA-CELLPHONES",
+      "thumbnail": "http://http2.mlstatic.com/D_832761-MLA48048712904_102021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 4,
+      "price": 44050,
+      "original_price": null,
+      "sale_price": null,
+      "sold_quantity": 5,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "standard_price_by_channel",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "best_seller_candidate"
+      ],
+      "shipping": {
+        "logistic_type": "xd_drop_off",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-12-31T04:00:00.000Z",
+      "seller": {
+        "id": 331468238,
+        "nickname": "FOXBOX OFICIAL",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "_": false,
+        "registration_date": "2018-06-27T14:14:53.000-04:00",
+        "tags": [
+          "normal",
+          "eshop",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/FOXBOX+GROUP",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "gold",
+          "transactions": {
+            "canceled": 50,
+            "completed": 382,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "neutral": 0.02,
+              "positive": 0.97
+            },
+            "total": 432
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 167
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 2
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0169,
+              "value": 3
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 0
+            }
+          }
+        },
+        "eshop": {
+          "eshop_id": 309706,
+          "seller": 331468238,
+          "nick_name": "FOXBOX OFICIAL",
+          "eshop_status_id": 1,
+          "site_id": "MLA",
+          "eshop_experience": 0,
+          "eshop_rubro": null,
+          "eshop_locations": [],
+          "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/logo-331468238-1663871171385.jpeg"
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-X",
+          "name": "Córdoba"
+        },
+        "city": {
+          "id": "TUxBQ0NBUGNiZGQx",
+          "name": "Córdoba"
+        }
+      },
+      "address": {
+        "state_id": "AR-X",
+        "state_name": "Córdoba",
+        "city_id": "TUxBQ0NBUGNiZGQx",
+        "city_name": "Córdoba"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "2503",
+          "value_name": "Motorola",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2503",
+              "name": "Motorola",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "GPU_MODEL",
+          "name": "Modelo de GPU",
+          "value_id": "10487118",
+          "value_name": "Mali-G57 MC2",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "10487118",
+              "name": "Mali-G57 MC2",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "source": 3045741222775799,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "975255",
+          "value_name": "Moto E",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "975255",
+              "name": "Moto E",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "16664",
+          "value_name": "E20",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "16664",
+              "name": "E20",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "PROCESSOR_MODEL",
+          "name": "Modelo del procesador",
+          "value_id": "11275757",
+          "value_name": "Unisoc T606",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "11275757",
+              "name": "Unisoc T606",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "1151096",
+          "value_name": "185 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 185,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": "1151096",
+              "name": "185 g",
+              "struct": {
+                "number": 185,
+                "unit": "g"
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 10891.36,
+        "rate": 48.35,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": [],
+      "inventory_id": null
+    }
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categorías",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA1055",
+          "name": "Celulares y Smartphones",
+          "path_from_root": [
+            {
+              "id": "MLA1051",
+              "name": "Celulares y Teléfonos"
+            },
+            {
+              "id": "MLA1055",
+              "name": "Celulares y Smartphones"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "available_filters": [
+    {
+      "id": "state",
+      "name": "Ubicación",
+      "type": "text",
+      "values": [
+        {
+          "id": "TUxBUENBUGw3M2E1",
+          "name": "Capital Federal",
+          "results": 12735
+        },
+        {
+          "id": "TUxBUEdSQXJlMDNm",
+          "name": "Bs.As. G.B.A. Sur",
+          "results": 5140
+        },
+        {
+          "id": "TUxBUEdSQWU4ZDkz",
+          "name": "Bs.As. G.B.A. Norte",
+          "results": 4727
+        },
+        {
+          "id": "TUxBUEdSQWVmNTVm",
+          "name": "Bs.As. G.B.A. Oeste",
+          "results": 4149
+        },
+        {
+          "id": "TUxBUENPUmFkZGIw",
+          "name": "Córdoba",
+          "results": 2039
+        },
+        {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior",
+          "results": 2020
+        },
+        {
+          "id": "TUxBUFNBTmU5Nzk2",
+          "name": "Santa Fe",
+          "results": 1679
+        },
+        {
+          "id": "TUxBUE1FTmE5OWQ4",
+          "name": "Mendoza",
+          "results": 1041
+        },
+        {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre Ríos",
+          "results": 600
+        },
+        {
+          "id": "TUxBUENPU2ExMmFkMw",
+          "name": "Bs.As. Costa Atlántica",
+          "results": 560
+        },
+        {
+          "id": "TUxBUE1JU3MzNjIx",
+          "name": "Misiones",
+          "results": 474
+        },
+        {
+          "id": "TUxBUENPUnM5MjI0",
+          "name": "Corrientes",
+          "results": 456
+        },
+        {
+          "id": "TUxBUFRVQ244NmM3",
+          "name": "Tucumán",
+          "results": 394
+        },
+        {
+          "id": "TUxBUFNBTGFjMTJi",
+          "name": "Salta",
+          "results": 289
+        },
+        {
+          "id": "TUxBUENIQW8xMTNhOA",
+          "name": "Chaco",
+          "results": 264
+        },
+        {
+          "id": "TUxBUFLNT29iZmZm",
+          "name": "Río Negro",
+          "results": 264
+        },
+        {
+          "id": "TUxBUE5FVW4xMzMzNQ",
+          "name": "Neuquén",
+          "results": 240
+        },
+        {
+          "id": "TUxBUFNBTnM0ZTcz",
+          "name": "San Luis",
+          "results": 224
+        },
+        {
+          "id": "TUxBUENIVXQxNDM1MQ",
+          "name": "Chubut",
+          "results": 216
+        },
+        {
+          "id": "TUxBUFNBTm5lYjU4",
+          "name": "San Juan",
+          "results": 216
+        },
+        {
+          "id": "TUxBUFNBTm9lOTlk",
+          "name": "Santiago del Estero",
+          "results": 210
+        },
+        {
+          "id": "TUxBUExBWmEyNzY0",
+          "name": "La Rioja",
+          "results": 170
+        },
+        {
+          "id": "TUxBUEZPUmE1OTk5",
+          "name": "Formosa",
+          "results": 168
+        },
+        {
+          "id": "TUxBUFNBTno3ZmY5",
+          "name": "Santa Cruz",
+          "results": 168
+        },
+        {
+          "id": "TUxBUEpVSnk3YmUz",
+          "name": "Jujuy",
+          "results": 153
+        },
+        {
+          "id": "TUxBUENBVGFiY2Fm",
+          "name": "Catamarca",
+          "results": 129
+        },
+        {
+          "id": "TUxBUExBWmE1OWMy",
+          "name": "La Pampa",
+          "results": 104
+        },
+        {
+          "id": "TUxBUFRJRVoxM2M5YQ",
+          "name": "Tierra del Fuego",
+          "results": 40
+        }
+      ]
+    },
+    {
+      "id": "discount",
+      "name": "Descuentos",
+      "type": "number",
+      "values": [
+        {
+          "id": "5-100",
+          "name": "Desde 5% OFF",
+          "results": 285
+        },
+        {
+          "id": "10-100",
+          "name": "Desde 10% OFF",
+          "results": 144
+        },
+        {
+          "id": "15-100",
+          "name": "Desde 15% OFF",
+          "results": 99
+        },
+        {
+          "id": "20-100",
+          "name": "Desde 20% OFF",
+          "results": 49
+        },
+        {
+          "id": "25-100",
+          "name": "Desde 25% OFF",
+          "results": 33
+        },
+        {
+          "id": "30-100",
+          "name": "Desde 30% OFF",
+          "results": 16
+        },
+        {
+          "id": "40-100",
+          "name": "Desde 40% OFF",
+          "results": 8
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "name": "Precio",
+      "type": "range",
+      "values": [
+        {
+          "id": "*-40000.0",
+          "name": "Hasta $ 40.000",
+          "results": 11880
+        },
+        {
+          "id": "40000.0-95000.0",
+          "name": "$40.000 a $95.000",
+          "results": 14241
+        },
+        {
+          "id": "95000.0-*",
+          "name": "Más de $95.000",
+          "results": 13867
+        }
+      ]
+    },
+    {
+      "id": "accepts_mercadopago",
+      "name": "Filtro por MercadoPago",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Con MercadoPago",
+          "results": 39988
+        }
+      ]
+    },
+    {
+      "id": "installments",
+      "name": "Pago",
+      "type": "text",
+      "values": [
+        {
+          "id": "yes",
+          "name": "En cuotas",
+          "results": 36668
+        },
+        {
+          "id": "no_interest",
+          "name": "Sin interés",
+          "results": 4230
+        }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "Tipo de entrega",
+      "type": "text",
+      "values": [
+        {
+          "id": "mercadoenvios",
+          "name": "Con envío",
+          "results": 39932
+        },
+        {
+          "id": "fulfillment",
+          "name": "Full",
+          "results": 201
+        }
+      ]
+    },
+    {
+      "id": "power_seller",
+      "name": "Filtro por calidad de vendedores",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Mejores vendedores",
+          "results": 3201
+        }
+      ]
+    },
+    {
+      "id": "since",
+      "name": "Filtro por fecha de comienzo",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Publicados hoy",
+          "results": 640
+        }
+      ]
+    },
+    {
+      "id": "until",
+      "name": "Filtro por fecha de finalización",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Finalizan hoy",
+          "results": 80
+        }
+      ]
+    },
+    {
+      "id": "has_video",
+      "name": "Filtro por publicaciones con video",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Publicaciones con video",
+          "results": 555
+        }
+      ]
+    },
+    {
+      "id": "has_pictures",
+      "name": "Filtro por publicaciones con imágenes",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Con fotos",
+          "results": 39972
+        }
+      ]
+    },
+    {
+      "id": "all_payment_methods_discount",
+      "name": "Descuentos para todos los medios de pago",
+      "type": "number",
+      "values": [
+        {
+          "id": "1-100",
+          "name": "Desde 1% OFF",
+          "results": 199
+        },
+        {
+          "id": "5-100",
+          "name": "Desde 5% OFF",
+          "results": 141
+        },
+        {
+          "id": "10-100",
+          "name": "Desde 10% OFF",
+          "results": 34
+        },
+        {
+          "id": "15-100",
+          "name": "Desde 15% OFF",
+          "results": 9
+        },
+        {
+          "id": "25-100",
+          "name": "Desde 25% OFF",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "price_campaign_id",
+      "name": "Campaña",
+      "type": "number",
+      "values": [
+        {
+          "id": "P-MLA10641187",
+          "name": "P-MLA10641187",
+          "results": 14
+        },
+        {
+          "id": "MLA28557",
+          "name": "MLA28557",
+          "results": 6
+        },
+        {
+          "id": "MLA25649",
+          "name": "MLA25649",
+          "results": 2
+        },
+        {
+          "id": "P-MLA10678004",
+          "name": "P-MLA10678004",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "promotion_type",
+      "name": "Tipo de promoción",
+      "type": "text",
+      "values": [
+        {
+          "id": "deal_of_the_day",
+          "name": "Oferta del día",
+          "results": 11
+        }
+      ]
+    },
+    {
+      "id": "shipping_cost",
+      "name": "Costo de envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "free",
+          "name": "Gratis",
+          "results": 19460
+        }
+      ]
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "9344",
+          "name": "Apple",
+          "results": 14959
+        },
+        {
+          "id": "206",
+          "name": "Samsung",
+          "results": 9534
+        },
+        {
+          "id": "2503",
+          "name": "Motorola",
+          "results": 5509
+        },
+        {
+          "id": "59387",
+          "name": "Xiaomi",
+          "results": 1862
+        },
+        {
+          "id": "215",
+          "name": "LG",
+          "results": 574
+        },
+        {
+          "id": "2879",
+          "name": "Nokia",
+          "results": 434
+        },
+        {
+          "id": "8784",
+          "name": "Huawei",
+          "results": 329
+        },
+        {
+          "id": "16457",
+          "name": "TCL",
+          "results": 231
+        },
+        {
+          "id": "30844",
+          "name": "Alcatel",
+          "results": 168
+        },
+        {
+          "id": "8908",
+          "name": "BLU",
+          "results": 154
+        },
+        {
+          "id": "995",
+          "name": "Sony",
+          "results": 147
+        },
+        {
+          "id": "7561",
+          "name": "ZTE",
+          "results": 112
+        },
+        {
+          "id": "59761",
+          "name": "OnePlus",
+          "results": 105
+        },
+        {
+          "id": "416189",
+          "name": "Blackview",
+          "results": 98
+        },
+        {
+          "id": "9807",
+          "name": "Noblex",
+          "results": 84
+        },
+        {
+          "id": "52701",
+          "name": "Google",
+          "results": 84
+        },
+        {
+          "id": "48598",
+          "name": "Quantum",
+          "results": 84
+        },
+        {
+          "id": "6176",
+          "name": "BlackBerry",
+          "results": 77
+        },
+        {
+          "id": "51559",
+          "name": "iPro",
+          "results": 70
+        },
+        {
+          "id": "1232",
+          "name": "Kodak",
+          "results": 56
+        },
+        {
+          "id": "59591",
+          "name": "Doogee",
+          "results": 42
+        },
+        {
+          "id": "2178508",
+          "name": "CAT",
+          "results": 42
+        },
+        {
+          "id": "7494",
+          "name": "Lenovo",
+          "results": 35
+        },
+        {
+          "id": "6306",
+          "name": "HTC",
+          "results": 35
+        },
+        {
+          "id": "15770",
+          "name": "Microsoft",
+          "results": 35
+        },
+        {
+          "id": "8112646",
+          "name": "Realme",
+          "results": 28
+        },
+        {
+          "id": "7294334",
+          "name": "Asus",
+          "results": 28
+        },
+        {
+          "id": "6623623",
+          "name": "Honor",
+          "results": 28
+        },
+        {
+          "id": "3089384",
+          "name": "Umidigi",
+          "results": 28
+        },
+        {
+          "id": "6276729",
+          "name": "Unihertz",
+          "results": 21
+        },
+        {
+          "id": "5601",
+          "name": "BGH",
+          "results": 21
+        },
+        {
+          "id": "3030555",
+          "name": "Konka",
+          "results": 21
+        },
+        {
+          "id": "98571",
+          "name": "Sansei",
+          "results": 14
+        },
+        {
+          "id": "93504",
+          "name": "Kanji",
+          "results": 14
+        },
+        {
+          "id": "59787",
+          "name": "PCD",
+          "results": 14
+        },
+        {
+          "id": "31416",
+          "name": "Ace",
+          "results": 14
+        },
+        {
+          "id": "3",
+          "name": "Philips",
+          "results": 14
+        },
+        {
+          "id": "248350",
+          "name": "Sky Devices",
+          "results": 14
+        },
+        {
+          "id": "18347",
+          "name": "Datsun",
+          "results": 14
+        },
+        {
+          "id": "15375",
+          "name": "Energizer",
+          "results": 14
+        },
+        {
+          "id": "1374",
+          "name": "Sony Ericsson",
+          "results": 14
+        },
+        {
+          "id": "99448",
+          "name": "CX",
+          "results": 7
+        },
+        {
+          "id": "9269937",
+          "name": "Cyrus",
+          "results": 7
+        },
+        {
+          "id": "7212",
+          "name": "Kyocera",
+          "results": 7
+        },
+        {
+          "id": "6668",
+          "name": "Palm",
+          "results": 7
+        },
+        {
+          "id": "59497",
+          "name": "Oppo",
+          "results": 7
+        },
+        {
+          "id": "58459",
+          "name": "Hiphone",
+          "results": 7
+        },
+        {
+          "id": "49944",
+          "name": "HP",
+          "results": 7
+        },
+        {
+          "id": "479",
+          "name": "Philco",
+          "results": 7
+        },
+        {
+          "id": "460242",
+          "name": "Top House",
+          "results": 7
+        },
+        {
+          "id": "33997",
+          "name": "Aiko",
+          "results": 7
+        },
+        {
+          "id": "32113",
+          "name": "Audiovox",
+          "results": 7
+        },
+        {
+          "id": "2794652",
+          "name": "Yolo",
+          "results": 7
+        },
+        {
+          "id": "2786048",
+          "name": "Zuum",
+          "results": 7
+        },
+        {
+          "id": "276243",
+          "name": "Genérica",
+          "results": 7
+        },
+        {
+          "id": "27499",
+          "name": "Admiral",
+          "results": 7
+        },
+        {
+          "id": "19317",
+          "name": "Siemens",
+          "results": 7
+        },
+        {
+          "id": "13481975",
+          "name": "Ababra",
+          "results": 7
+        },
+        {
+          "id": "1239899",
+          "name": "Nubia",
+          "results": 7
+        },
+        {
+          "id": "119258",
+          "name": "Cubot",
+          "results": 7
+        },
+        {
+          "id": "1089",
+          "name": "Hyundai",
+          "results": 7
+        }
+      ]
+    },
+    {
+      "id": "CARRIER",
+      "name": "Compañía telefónica",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "298335",
+          "name": "Liberado",
+          "results": 33180
+        },
+        {
+          "id": "303171",
+          "name": "Personal",
+          "results": 819
+        },
+        {
+          "id": "298333",
+          "name": "Claro",
+          "results": 721
+        },
+        {
+          "id": "303170",
+          "name": "Movistar",
+          "results": 658
+        },
+        {
+          "id": "303172",
+          "name": "Nextel",
+          "results": 133
+        }
+      ]
+    },
+    {
+      "id": "DISPLAY_SIZE",
+      "name": "Tamaño de la pantalla",
+      "type": "range",
+      "values": [
+        {
+          "id": "(*-4.7\"]",
+          "name": "4,7 \" o menos",
+          "results": 7021
+        },
+        {
+          "id": "[4.7\"-5.2\"]",
+          "name": "4,7 a 5,2 \"",
+          "results": 7168
+        },
+        {
+          "id": "[5.2\"-6\"]",
+          "name": "5,2 a 6 \"",
+          "results": 7812
+        },
+        {
+          "id": "[6\"-6.4\"]",
+          "name": "6 a 6,4 \"",
+          "results": 7945
+        },
+        {
+          "id": "[6.4\"-*)",
+          "name": "6,4 \" o más",
+          "results": 10969
+        }
+      ]
+    },
+    {
+      "id": "official_store",
+      "name": "Tiendas oficiales",
+      "type": "text",
+      "values": [
+        {
+          "id": "all",
+          "name": "Todas las tiendas oficiales",
+          "results": 359
+        },
+        {
+          "id": "1938",
+          "name": "Mercado Libre Electronica",
+          "results": 27
+        },
+        {
+          "id": "1348",
+          "name": "Motorola",
+          "results": 7
+        },
+        {
+          "id": "82",
+          "name": "Megatone",
+          "results": 37
+        },
+        {
+          "id": "1550",
+          "name": "Samsung",
+          "results": 29
+        },
+        {
+          "id": "1425",
+          "name": "Diggit",
+          "results": 17
+        },
+        {
+          "id": "1580",
+          "name": "Xiaomi",
+          "results": 9
+        },
+        {
+          "id": "1255",
+          "name": "Castillo",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "INTERNAL_MEMORY",
+      "name": "Memoria interna",
+      "type": "range",
+      "values": [
+        {
+          "id": "(*-64GB)",
+          "name": "Menos de 64 GB",
+          "results": 11529
+        },
+        {
+          "id": "[64GB-128GB)",
+          "name": "64 a 127 GB",
+          "results": 9737
+        },
+        {
+          "id": "[128GB-256GB)",
+          "name": "128 a 255 GB",
+          "results": 10129
+        },
+        {
+          "id": "[256GB-*)",
+          "name": "256 GB o más",
+          "results": 4074
+        }
+      ]
+    },
+    {
+      "id": "IS_DUAL_SIM",
+      "name": "Otras características",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Es Dual SIM",
+          "results": 5425
+        }
+      ]
+    },
+    {
+      "id": "IS_WATER_RESISTANT",
+      "name": "Otras características",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Es resistente al agua",
+          "results": 15316
+        }
+      ]
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2230581",
+          "name": "Usado",
+          "results": 31304
+        },
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "results": 3003
+        },
+        {
+          "id": "2230582",
+          "name": "Reacondicionado",
+          "results": 1295
+        }
+      ]
+    },
+    {
+      "id": "LINE",
+      "name": "Línea",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "58993",
+          "name": "iPhone",
+          "results": 14896
+        },
+        {
+          "id": "322977",
+          "name": "Galaxy A",
+          "results": 4011
+        },
+        {
+          "id": "3073863",
+          "name": "Moto G",
+          "results": 2653
+        },
+        {
+          "id": "249991",
+          "name": "Galaxy S",
+          "results": 2345
+        },
+        {
+          "id": "195973",
+          "name": "Galaxy J",
+          "results": 1288
+        },
+        {
+          "id": "199791",
+          "name": "Redmi",
+          "results": 1141
+        },
+        {
+          "id": "975255",
+          "name": "Moto E",
+          "results": 1106
+        },
+        {
+          "id": "43675",
+          "name": "Galaxy",
+          "results": 693
+        },
+        {
+          "id": "59783",
+          "name": "Mi",
+          "results": 504
+        },
+        {
+          "id": "5639416",
+          "name": "Edge",
+          "results": 469
+        },
+        {
+          "id": "51851",
+          "name": "One",
+          "results": 469
+        },
+        {
+          "id": "8259892",
+          "name": "Galaxy Z",
+          "results": 301
+        },
+        {
+          "id": "436962",
+          "name": "K Series",
+          "results": 273
+        },
+        {
+          "id": "322859",
+          "name": "Galaxy Note",
+          "results": 266
+        },
+        {
+          "id": "59187",
+          "name": "Moto",
+          "results": 182
+        },
+        {
+          "id": "11073095",
+          "name": "Pocophone",
+          "results": 147
+        },
+        {
+          "id": "107809",
+          "name": "P Series",
+          "results": 147
+        },
+        {
+          "id": "6982639",
+          "name": "Galaxy M",
+          "results": 140
+        },
+        {
+          "id": "1372",
+          "name": "Xperia",
+          "results": 140
+        },
+        {
+          "id": "8008725",
+          "name": "Moto C",
+          "results": 112
+        },
+        {
+          "id": "6345042",
+          "name": "BV Series",
+          "results": 91
+        },
+        {
+          "id": "427899",
+          "name": "Mate Series",
+          "results": 84
+        },
+        {
+          "id": "109496",
+          "name": "Blade",
+          "results": 84
+        },
+        {
+          "id": "5441",
+          "name": "Lumia",
+          "results": 77
+        },
+        {
+          "id": "338692",
+          "name": "Galaxy Grand",
+          "results": 77
+        },
+        {
+          "id": "53732",
+          "name": "G Series",
+          "results": 63
+        },
+        {
+          "id": "3085043",
+          "name": "Moto X",
+          "results": 63
+        },
+        {
+          "id": "3104264",
+          "name": "Moto Z",
+          "results": 56
+        },
+        {
+          "id": "2223238",
+          "name": "Q Series",
+          "results": 56
+        },
+        {
+          "id": "60083",
+          "name": "OneTouch",
+          "results": 49
+        },
+        {
+          "id": "9095",
+          "name": "Curve",
+          "results": 42
+        },
+        {
+          "id": "8845",
+          "name": "Asha",
+          "results": 42
+        },
+        {
+          "id": "9589185",
+          "name": "Seren",
+          "results": 35
+        },
+        {
+          "id": "145034",
+          "name": "Nseries",
+          "results": 35
+        },
+        {
+          "id": "9770215",
+          "name": "Nord Series",
+          "results": 28
+        },
+        {
+          "id": "184707",
+          "name": "S Series",
+          "results": 28
+        },
+        {
+          "id": "520753",
+          "name": "Studio Series",
+          "results": 21
+        },
+        {
+          "id": "3718103",
+          "name": "Plegable",
+          "results": 21
+        },
+        {
+          "id": "333993",
+          "name": "Galaxy Core",
+          "results": 21
+        },
+        {
+          "id": "2192675",
+          "name": "Smartway",
+          "results": 21
+        },
+        {
+          "id": "121808",
+          "name": "ZenFone",
+          "results": 21
+        },
+        {
+          "id": "103902",
+          "name": "Joy",
+          "results": 21
+        },
+        {
+          "id": "9804",
+          "name": "Go",
+          "results": 14
+        },
+        {
+          "id": "975137",
+          "name": "S",
+          "results": 14
+        },
+        {
+          "id": "8822",
+          "name": "XpressMusic",
+          "results": 14
+        },
+        {
+          "id": "5592548",
+          "name": "C Series",
+          "results": 14
+        },
+        {
+          "id": "54021",
+          "name": "X Series",
+          "results": 14
+        },
+        {
+          "id": "517961",
+          "name": "Nova Series",
+          "results": 14
+        },
+        {
+          "id": "493876",
+          "name": "Vibe Series",
+          "results": 14
+        },
+        {
+          "id": "31637",
+          "name": "KRZR",
+          "results": 14
+        },
+        {
+          "id": "31229",
+          "name": "ROKR",
+          "results": 14
+        },
+        {
+          "id": "270959",
+          "name": "Cseries",
+          "results": 14
+        },
+        {
+          "id": "2332978",
+          "name": "Grand Series",
+          "results": 14
+        },
+        {
+          "id": "225933",
+          "name": "Y Series",
+          "results": 14
+        },
+        {
+          "id": "220026",
+          "name": "Energy",
+          "results": 14
+        },
+        {
+          "id": "2148621",
+          "name": "Note",
+          "results": 14
+        },
+        {
+          "id": "97428",
+          "name": "Desire",
+          "results": 7
+        },
+        {
+          "id": "9251966",
+          "name": "ROG Phone",
+          "results": 7
+        },
+        {
+          "id": "9193",
+          "name": "Treo",
+          "results": 7
+        },
+        {
+          "id": "9055233",
+          "name": "Reno Series",
+          "results": 7
+        },
+        {
+          "id": "9029284",
+          "name": "Note Series",
+          "results": 7
+        },
+        {
+          "id": "8877",
+          "name": "Bold",
+          "results": 7
+        },
+        {
+          "id": "8857",
+          "name": "RAZR",
+          "results": 7
+        },
+        {
+          "id": "8772",
+          "name": "Optimus",
+          "results": 7
+        },
+        {
+          "id": "7918494",
+          "name": "Black Shark",
+          "results": 7
+        },
+        {
+          "id": "59722",
+          "name": "Ch@t",
+          "results": 7
+        },
+        {
+          "id": "59287",
+          "name": "MILESTONE",
+          "results": 7
+        },
+        {
+          "id": "58497",
+          "name": "Motosmart",
+          "results": 7
+        },
+        {
+          "id": "58360",
+          "name": "StarTAC",
+          "results": 7
+        },
+        {
+          "id": "564541",
+          "name": "Tank Series",
+          "results": 7
+        },
+        {
+          "id": "5253657",
+          "name": "Feature Phone Series",
+          "results": 7
+        },
+        {
+          "id": "502008",
+          "name": "Energy Series",
+          "results": 7
+        },
+        {
+          "id": "44281",
+          "name": "A",
+          "results": 7
+        },
+        {
+          "id": "437878",
+          "name": "Galaxy C",
+          "results": 7
+        },
+        {
+          "id": "33852",
+          "name": "MOTOKEY",
+          "results": 7
+        },
+        {
+          "id": "31320",
+          "name": "SLVR",
+          "results": 7
+        },
+        {
+          "id": "279301",
+          "name": "Platinum Series",
+          "results": 7
+        },
+        {
+          "id": "279109",
+          "name": "L Series",
+          "results": 7
+        },
+        {
+          "id": "271527",
+          "name": "Eseries",
+          "results": 7
+        },
+        {
+          "id": "238501",
+          "name": "30 Series",
+          "results": 7
+        },
+        {
+          "id": "2353890",
+          "name": "Keystone",
+          "results": 7
+        },
+        {
+          "id": "2335327",
+          "name": "Neo Series",
+          "results": 7
+        },
+        {
+          "id": "2332868",
+          "name": "Life Series",
+          "results": 7
+        },
+        {
+          "id": "2143584",
+          "name": "Axon",
+          "results": 7
+        },
+        {
+          "id": "20560",
+          "name": "Touch",
+          "results": 7
+        },
+        {
+          "id": "145058",
+          "name": "Walkman",
+          "results": 7
+        },
+        {
+          "id": "1249632",
+          "name": "Vivo Series",
+          "results": 7
+        },
+        {
+          "id": "11807065",
+          "name": "9 Series",
+          "results": 7
+        },
+        {
+          "id": "109512",
+          "name": "Atom",
+          "results": 7
+        },
+        {
+          "id": "106692",
+          "name": "V Series",
+          "results": 7
+        },
+        {
+          "id": "102430",
+          "name": "Ultra",
+          "results": 7
+        }
+      ]
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "type": "list",
+      "values": [
+        {
+          "id": "2450295",
+          "name": "Negro",
+          "results": 9499
+        },
+        {
+          "id": "2450294",
+          "name": "Gris",
+          "results": 5992
+        },
+        {
+          "id": "2450293",
+          "name": "Azul",
+          "results": 4011
+        },
+        {
+          "id": "2450308",
+          "name": "Blanco",
+          "results": 2366
+        },
+        {
+          "id": "2450289",
+          "name": "Dorado",
+          "results": 2177
+        },
+        {
+          "id": "2450312",
+          "name": "Rosa",
+          "results": 1393
+        },
+        {
+          "id": "2450307",
+          "name": "Rojo",
+          "results": 917
+        },
+        {
+          "id": "2450314",
+          "name": "Verde",
+          "results": 840
+        },
+        {
+          "id": "2450311",
+          "name": "Violeta",
+          "results": 567
+        },
+        {
+          "id": "2450303",
+          "name": "Plateado",
+          "results": 182
+        },
+        {
+          "id": "2450299",
+          "name": "Gris oscuro",
+          "results": 168
+        },
+        {
+          "id": "2450296",
+          "name": "Amarillo",
+          "results": 133
+        },
+        {
+          "id": "2450327",
+          "name": "Naranja",
+          "results": 105
+        },
+        {
+          "id": "2450278",
+          "name": "Celeste",
+          "results": 91
+        },
+        {
+          "id": "2450325",
+          "name": "Azul marino",
+          "results": 28
+        },
+        {
+          "id": "2450313",
+          "name": "Coral claro",
+          "results": 28
+        },
+        {
+          "id": "2450324",
+          "name": "Verde oscuro",
+          "results": 21
+        },
+        {
+          "id": "2450291",
+          "name": "Marrón",
+          "results": 21
+        },
+        {
+          "id": "2450281",
+          "name": "Beige",
+          "results": 21
+        },
+        {
+          "id": "2450322",
+          "name": "Bordó",
+          "results": 14
+        },
+        {
+          "id": "2450319",
+          "name": "Verde claro",
+          "results": 14
+        },
+        {
+          "id": "2450309",
+          "name": "Dorado oscuro",
+          "results": 14
+        },
+        {
+          "id": "2450306",
+          "name": "Azul oscuro",
+          "results": 14
+        },
+        {
+          "id": "2450300",
+          "name": "Crema",
+          "results": 14
+        },
+        {
+          "id": "2450288",
+          "name": "Azul petróleo",
+          "results": 14
+        },
+        {
+          "id": "11282035",
+          "name": "Gris claro",
+          "results": 14
+        },
+        {
+          "id": "11282033",
+          "name": "Dorado claro",
+          "results": 14
+        },
+        {
+          "id": "2479626",
+          "name": "Púrpura",
+          "results": 7
+        },
+        {
+          "id": "2450321",
+          "name": "Lila",
+          "results": 7
+        },
+        {
+          "id": "2450320",
+          "name": "Turquesa",
+          "results": 7
+        },
+        {
+          "id": "2450315",
+          "name": "Cian",
+          "results": 7
+        },
+        {
+          "id": "2450301",
+          "name": "Caqui",
+          "results": 7
+        },
+        {
+          "id": "2450298",
+          "name": "Azul claro",
+          "results": 7
+        },
+        {
+          "id": "2450290",
+          "name": "Violeta oscuro",
+          "results": 7
+        },
+        {
+          "id": "2450283",
+          "name": "Agua",
+          "results": 7
+        }
+      ]
+    },
+    {
+      "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+      "name": "Resolución de la cámara frontal principal",
+      "type": "range",
+      "values": [
+        {
+          "id": "(*-7Mpx)",
+          "name": "7 Mpx o menos",
+          "results": 7931
+        },
+        {
+          "id": "[7Mpx-8Mpx)",
+          "name": "7 Mpx",
+          "results": 8295
+        },
+        {
+          "id": "[8Mpx-13Mpx)",
+          "name": "8 a 12 Mpx",
+          "results": 9128
+        },
+        {
+          "id": "[13Mpx-*)",
+          "name": "13 Mpx o más",
+          "results": 7175
+        }
+      ]
+    },
+    {
+      "id": "MAIN_REAR_CAMERA_RESOLUTION",
+      "name": "Resolución de la cámara trasera principal",
+      "type": "range",
+      "values": [
+        {
+          "id": "(*-13Mpx)",
+          "name": "13 Mpx o menos",
+          "results": 18998
+        },
+        {
+          "id": "[13Mpx-23Mpx)",
+          "name": "13 a 22 Mpx",
+          "results": 5586
+        },
+        {
+          "id": "[23Mpx-64Mpx)",
+          "name": "23 a 63 Mpx",
+          "results": 5180
+        },
+        {
+          "id": "[64Mpx-*)",
+          "name": "64 Mpx o más",
+          "results": 3010
+        }
+      ]
+    },
+    {
+      "id": "MOBILE_NETWORK",
+      "name": "Red",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "367876",
+          "name": "4G/LTE",
+          "results": 27258
+        },
+        {
+          "id": "7472027",
+          "name": "5G",
+          "results": 4305
+        },
+        {
+          "id": "7472026",
+          "name": "2G",
+          "results": 350
+        },
+        {
+          "id": "367874",
+          "name": "3G",
+          "results": 301
+        },
+        {
+          "id": "9133368",
+          "name": "4G",
+          "results": 105
+        }
+      ]
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "312155",
+          "name": "iPhone 7",
+          "results": 2002
+        },
+        {
+          "id": "7739079",
+          "name": "iPhone 11",
+          "results": 1162
+        },
+        {
+          "id": "5414260",
+          "name": "iPhone XR",
+          "results": 1134
+        },
+        {
+          "id": "2244670",
+          "name": "iPhone 8",
+          "results": 1092
+        },
+        {
+          "id": "312151",
+          "name": "iPhone 6s",
+          "results": 1071
+        },
+        {
+          "id": "2244673",
+          "name": "iPhone 8 Plus",
+          "results": 1043
+        },
+        {
+          "id": "312157",
+          "name": "iPhone 7 Plus",
+          "results": 980
+        },
+        {
+          "id": "312149",
+          "name": "iPhone 6",
+          "results": 903
+        },
+        {
+          "id": "1164456",
+          "name": "iPhone X",
+          "results": 889
+        },
+        {
+          "id": "5414079",
+          "name": "iPhone XS",
+          "results": 378
+        },
+        {
+          "id": "312154",
+          "name": "iPhone SE",
+          "results": 364
+        },
+        {
+          "id": "312153",
+          "name": "iPhone 6s Plus",
+          "results": 301
+        },
+        {
+          "id": "7741023",
+          "name": "iPhone 11 Pro",
+          "results": 294
+        },
+        {
+          "id": "5414168",
+          "name": "iPhone XS Max",
+          "results": 294
+        },
+        {
+          "id": "11151776",
+          "name": "iPhone 13 Pro Max",
+          "results": 294
+        },
+        {
+          "id": "8230322",
+          "name": "iPhone SE (2nd Generation)",
+          "results": 266
+        },
+        {
+          "id": "9081382",
+          "name": "iPhone 12",
+          "results": 252
+        },
+        {
+          "id": "7741677",
+          "name": "iPhone 11 Pro Max",
+          "results": 252
+        },
+        {
+          "id": "9081385",
+          "name": "iPhone 12 Pro Max",
+          "results": 224
+        },
+        {
+          "id": "21021",
+          "name": "A51",
+          "results": 217
+        },
+        {
+          "id": "54218",
+          "name": "A13",
+          "results": 210
+        },
+        {
+          "id": "11151811",
+          "name": "iPhone 13 Pro",
+          "results": 210
+        },
+        {
+          "id": "7693",
+          "name": "A50",
+          "results": 203
+        },
+        {
+          "id": "361674",
+          "name": "A12",
+          "results": 203
+        },
+        {
+          "id": "8030",
+          "name": "S8",
+          "results": 196
+        },
+        {
+          "id": "2929207",
+          "name": "G30",
+          "results": 196
+        },
+        {
+          "id": "37901",
+          "name": "A52",
+          "results": 189
+        },
+        {
+          "id": "3477305",
+          "name": "A32",
+          "results": 189
+        },
+        {
+          "id": "117065",
+          "name": "G20",
+          "results": 189
+        },
+        {
+          "id": "9062754",
+          "name": "S20 FE",
+          "results": 182
+        },
+        {
+          "id": "373724",
+          "name": "J7 Prime",
+          "results": 182
+        },
+        {
+          "id": "11159139",
+          "name": "iPhone 13",
+          "results": 182
+        },
+        {
+          "id": "8820330",
+          "name": "A21s",
+          "results": 175
+        },
+        {
+          "id": "3362707",
+          "name": "Note 8",
+          "results": 175
+        },
+        {
+          "id": "8480",
+          "name": "A10",
+          "results": 168
+        },
+        {
+          "id": "312144",
+          "name": "iPhone 5s",
+          "results": 168
+        },
+        {
+          "id": "9003306",
+          "name": "One Fusion",
+          "results": 161
+        },
+        {
+          "id": "11749025",
+          "name": "S22 Ultra 5G (Snapdragon)",
+          "results": 161
+        },
+        {
+          "id": "9081384",
+          "name": "iPhone 12 Pro",
+          "results": 154
+        },
+        {
+          "id": "2482820",
+          "name": "S9+",
+          "results": 147
+        },
+        {
+          "id": "9168194",
+          "name": "G9 Power",
+          "results": 140
+        },
+        {
+          "id": "397729",
+          "name": "J2 Prime",
+          "results": 140
+        },
+        {
+          "id": "33373",
+          "name": "A31",
+          "results": 140
+        },
+        {
+          "id": "2593828",
+          "name": "G22",
+          "results": 140
+        },
+        {
+          "id": "121553",
+          "name": "J7",
+          "results": 140
+        },
+        {
+          "id": "8074",
+          "name": "G6",
+          "results": 133
+        },
+        {
+          "id": "7227",
+          "name": "S10",
+          "results": 133
+        },
+        {
+          "id": "11076406",
+          "name": "Z Fold3 5G",
+          "results": 133
+        },
+        {
+          "id": "69693",
+          "name": "Edge",
+          "results": 126
+        },
+        {
+          "id": "231612",
+          "name": "A03",
+          "results": 126
+        },
+        {
+          "id": "35040",
+          "name": "A30",
+          "results": 119
+        },
+        {
+          "id": "8678042",
+          "name": "Note 9",
+          "results": 112
+        },
+        {
+          "id": "1957",
+          "name": "S9",
+          "results": 112
+        },
+        {
+          "id": "9022882",
+          "name": "G9 Plus",
+          "results": 105
+        },
+        {
+          "id": "7951146",
+          "name": "A30s",
+          "results": 105
+        },
+        {
+          "id": "25749",
+          "name": "S8+",
+          "results": 105
+        },
+        {
+          "id": "11617624",
+          "name": "A03 Core",
+          "results": 105
+        },
+        {
+          "id": "11205471",
+          "name": "A03s",
+          "results": 105
+        },
+        {
+          "id": "8988",
+          "name": "E7",
+          "results": 98
+        },
+        {
+          "id": "8073",
+          "name": "A20",
+          "results": 98
+        },
+        {
+          "id": "312150",
+          "name": "iPhone 6 Plus",
+          "results": 98
+        },
+        {
+          "id": "9062841",
+          "name": "E7 Plus",
+          "results": 91
+        },
+        {
+          "id": "8737",
+          "name": "A70",
+          "results": 91
+        },
+        {
+          "id": "8259891",
+          "name": "Z Flip",
+          "results": 91
+        },
+        {
+          "id": "8002086",
+          "name": "A20s",
+          "results": 91
+        },
+        {
+          "id": "7903923",
+          "name": "G8 Plus",
+          "results": 91
+        },
+        {
+          "id": "7867801",
+          "name": "E6 Plus",
+          "results": 91
+        },
+        {
+          "id": "420003",
+          "name": "G5 Plus",
+          "results": 91
+        },
+        {
+          "id": "312152",
+          "name": "iPhone 5",
+          "results": 91
+        },
+        {
+          "id": "9081383",
+          "name": "iPhone 12 mini",
+          "results": 84
+        },
+        {
+          "id": "8150118",
+          "name": "20 Lite",
+          "results": 84
+        },
+        {
+          "id": "407926",
+          "name": "J5 Prime",
+          "results": 84
+        },
+        {
+          "id": "14608",
+          "name": "iPhone",
+          "results": 84
+        },
+        {
+          "id": "13188536",
+          "name": "iPhone 14 Pro",
+          "results": 84
+        },
+        {
+          "id": "13118427",
+          "name": "Z Flip4 5G",
+          "results": 84
+        },
+        {
+          "id": "11073240",
+          "name": "G60s",
+          "results": 84
+        },
+        {
+          "id": "9869996",
+          "name": "E6i",
+          "results": 77
+        },
+        {
+          "id": "9676770",
+          "name": "A02s",
+          "results": 77
+        },
+        {
+          "id": "8115154",
+          "name": "E6s",
+          "results": 77
+        },
+        {
+          "id": "59926",
+          "name": "C",
+          "results": 77
+        },
+        {
+          "id": "59350",
+          "name": "A3",
+          "results": 77
+        },
+        {
+          "id": "367761",
+          "name": "J7 (2016)",
+          "results": 77
+        },
+        {
+          "id": "36732",
+          "name": "A71",
+          "results": 77
+        },
+        {
+          "id": "3376876",
+          "name": "A22",
+          "results": 77
+        },
+        {
+          "id": "11796908",
+          "name": "G200 5G",
+          "results": 77
+        },
+        {
+          "id": "10206408",
+          "name": "E7i Power",
+          "results": 77
+        },
+        {
+          "id": "9772340",
+          "name": "S21+ 5G",
+          "results": 70
+        },
+        {
+          "id": "9022888",
+          "name": "G9 Play",
+          "results": 70
+        },
+        {
+          "id": "8797",
+          "name": "E5",
+          "results": 70
+        },
+        {
+          "id": "7867796",
+          "name": "E6 Play",
+          "results": 70
+        },
+        {
+          "id": "7863873",
+          "name": "Note 8 Pro",
+          "results": 70
+        },
+        {
+          "id": "6494571",
+          "name": "G7 Plus",
+          "results": 70
+        },
+        {
+          "id": "54285",
+          "name": "One",
+          "results": 70
+        },
+        {
+          "id": "4525419",
+          "name": "One Vision",
+          "results": 70
+        },
+        {
+          "id": "25808",
+          "name": "S10+",
+          "results": 70
+        },
+        {
+          "id": "11043",
+          "name": "8",
+          "results": 70
+        },
+        {
+          "id": "10645220",
+          "name": "A22 5G",
+          "results": 70
+        },
+        {
+          "id": "9062752",
+          "name": "S20 FE 5G",
+          "results": 63
+        },
+        {
+          "id": "8202803",
+          "name": "G8 Power",
+          "results": 63
+        },
+        {
+          "id": "7917261",
+          "name": "Note 7 (48 Mpx)",
+          "results": 63
+        },
+        {
+          "id": "7905037",
+          "name": "G8 Play",
+          "results": 63
+        },
+        {
+          "id": "7753461",
+          "name": "A10s",
+          "results": 63
+        },
+        {
+          "id": "7397917",
+          "name": "9T",
+          "results": 63
+        },
+        {
+          "id": "6008552",
+          "name": "J6+",
+          "results": 63
+        },
+        {
+          "id": "4190041",
+          "name": "E32",
+          "results": 63
+        },
+        {
+          "id": "3376875",
+          "name": "A02",
+          "results": 63
+        },
+        {
+          "id": "3267924",
+          "name": "E5 Play",
+          "results": 63
+        },
+        {
+          "id": "3059704",
+          "name": "J8",
+          "results": 63
+        },
+        {
+          "id": "2915826",
+          "name": "G6 Plus",
+          "results": 63
+        },
+        {
+          "id": "2566921",
+          "name": "A04",
+          "results": 63
+        },
+        {
+          "id": "2228",
+          "name": "G5",
+          "results": 63
+        },
+        {
+          "id": "17878",
+          "name": "A11",
+          "results": 63
+        },
+        {
+          "id": "1249911",
+          "name": "G5S Plus",
+          "results": 63
+        },
+        {
+          "id": "119427",
+          "name": "A23",
+          "results": 63
+        },
+        {
+          "id": "11149069",
+          "name": "Z Flip3 5G",
+          "results": 63
+        },
+        {
+          "id": "10275844",
+          "name": "Note 10 5G",
+          "results": 63
+        },
+        {
+          "id": "10041",
+          "name": "30",
+          "results": 63
+        },
+        {
+          "id": "9869984",
+          "name": "G71",
+          "results": 56
+        },
+        {
+          "id": "9772346",
+          "name": "20 SE",
+          "results": 56
+        },
+        {
+          "id": "8160194",
+          "name": "S7 Edge",
+          "results": 56
+        },
+        {
+          "id": "8081585",
+          "name": "S20+",
+          "results": 56
+        },
+        {
+          "id": "7952998",
+          "name": "One Macro",
+          "results": 56
+        },
+        {
+          "id": "6503782",
+          "name": "G7 Power",
+          "results": 56
+        },
+        {
+          "id": "6444567",
+          "name": "G7 Play",
+          "results": 56
+        },
+        {
+          "id": "3826730",
+          "name": "A01",
+          "results": 56
+        },
+        {
+          "id": "27251",
+          "name": "7",
+          "results": 56
+        },
+        {
+          "id": "256745",
+          "name": "S7",
+          "results": 56
+        },
+        {
+          "id": "13188538",
+          "name": "iPhone 14",
+          "results": 56
+        },
+        {
+          "id": "121592",
+          "name": "J5",
+          "results": 56
+        },
+        {
+          "id": "10739288",
+          "name": "M12 (5000 mAh)",
+          "results": 56
+        },
+        {
+          "id": "102416",
+          "name": "E (2nd Gen.)",
+          "results": 56
+        },
+        {
+          "id": "9772342",
+          "name": "S21 Ultra 5G",
+          "results": 49
+        },
+        {
+          "id": "9772338",
+          "name": "S21 5G",
+          "results": 49
+        },
+        {
+          "id": "9005821",
+          "name": "30 Pro",
+          "results": 49
+        },
+        {
+          "id": "8999265",
+          "name": "Note20 Ultra",
+          "results": 49
+        },
+        {
+          "id": "8802146",
+          "name": "G8 Power Lite",
+          "results": 49
+        },
+        {
+          "id": "8163",
+          "name": "E40",
+          "results": 49
+        },
+        {
+          "id": "8012927",
+          "name": "One Hyper",
+          "results": 49
+        },
+        {
+          "id": "7442246",
+          "name": "G31",
+          "results": 49
+        },
+        {
+          "id": "6982643",
+          "name": "A50 Duos",
+          "results": 49
+        },
+        {
+          "id": "6177902",
+          "name": "J2 Core",
+          "results": 49
+        },
+        {
+          "id": "452181",
+          "name": "K9",
+          "results": 49
+        },
+        {
+          "id": "312143",
+          "name": "iPhone 5c",
+          "results": 49
+        },
+        {
+          "id": "2582597",
+          "name": "Note8",
+          "results": 49
+        },
+        {
+          "id": "195948",
+          "name": "J1",
+          "results": 49
+        },
+        {
+          "id": "12063780",
+          "name": "S22 Ultra Dual SIM (Snapdragon)",
+          "results": 49
+        },
+        {
+          "id": "10275843",
+          "name": "Note 10S",
+          "results": 49
+        },
+        {
+          "id": "9676755",
+          "name": "A53 5G",
+          "results": 42
+        },
+        {
+          "id": "9003227",
+          "name": "A01 Core",
+          "results": 42
+        },
+        {
+          "id": "8999271",
+          "name": "Note20",
+          "results": 42
+        },
+        {
+          "id": "7732943",
+          "name": "Note10+",
+          "results": 42
+        },
+        {
+          "id": "75860",
+          "name": "J4",
+          "results": 42
+        },
+        {
+          "id": "5988248",
+          "name": "8 Lite",
+          "results": 42
+        },
+        {
+          "id": "470494",
+          "name": "S8 Duos",
+          "results": 42
+        },
+        {
+          "id": "3666",
+          "name": "G7",
+          "results": 42
+        },
+        {
+          "id": "31998",
+          "name": "X",
+          "results": 42
+        },
+        {
+          "id": "31443",
+          "name": "A2",
+          "results": 42
+        },
+        {
+          "id": "312145",
+          "name": "iPhone 4s",
+          "results": 42
+        },
+        {
+          "id": "2876818",
+          "name": "G6 Play",
+          "results": 42
+        },
+        {
+          "id": "2420284",
+          "name": "J7 Pro",
+          "results": 42
+        },
+        {
+          "id": "21726",
+          "name": "G42",
+          "results": 42
+        },
+        {
+          "id": "16181014",
+          "name": "S23 Ultra",
+          "results": 42
+        },
+        {
+          "id": "15990",
+          "name": "Q6",
+          "results": 42
+        },
+        {
+          "id": "13113142",
+          "name": "Z Fold4",
+          "results": 42
+        },
+        {
+          "id": "13063757",
+          "name": "G82 5G",
+          "results": 42
+        },
+        {
+          "id": "124714",
+          "name": "G4",
+          "results": 42
+        },
+        {
+          "id": "1238313",
+          "name": "J7 Neo",
+          "results": 42
+        },
+        {
+          "id": "12097020",
+          "name": "G51 5G",
+          "results": 42
+        },
+        {
+          "id": "12094751",
+          "name": "S22 Ultra (Exynos)",
+          "results": 42
+        },
+        {
+          "id": "12062075",
+          "name": "S22 Dual SIM (Snapdragon)",
+          "results": 42
+        },
+        {
+          "id": "11600154",
+          "name": "Note 11 Pro",
+          "results": 42
+        },
+        {
+          "id": "102486",
+          "name": "Grand Prime",
+          "results": 42
+        },
+        {
+          "id": "100090",
+          "name": "S10e",
+          "results": 42
+        },
+        {
+          "id": "9676771",
+          "name": "A12 Duos",
+          "results": 35
+        },
+        {
+          "id": "9062737",
+          "name": "A72",
+          "results": 35
+        },
+        {
+          "id": "8840526",
+          "name": "E6s (2020)",
+          "results": 35
+        },
+        {
+          "id": "8150127",
+          "name": "20 Pro",
+          "results": 35
+        },
+        {
+          "id": "8019098",
+          "name": "Note 10 Pro",
+          "results": 35
+        },
+        {
+          "id": "7147355",
+          "name": "A70 Duos",
+          "results": 35
+        },
+        {
+          "id": "58944",
+          "name": "G8",
+          "results": 35
+        },
+        {
+          "id": "58054",
+          "name": "XR",
+          "results": 35
+        },
+        {
+          "id": "389521",
+          "name": "J6",
+          "results": 35
+        },
+        {
+          "id": "223400",
+          "name": "A5 (2016)",
+          "results": 35
+        },
+        {
+          "id": "16664",
+          "name": "E20",
+          "results": 35
+        },
+        {
+          "id": "13472914",
+          "name": "Edge 30 Neo",
+          "results": 35
+        },
+        {
+          "id": "13188535",
+          "name": "iPhone 14 Pro Max",
+          "results": 35
+        },
+        {
+          "id": "122804",
+          "name": "G (3rd Gen.)",
+          "results": 35
+        },
+        {
+          "id": "12240378",
+          "name": "A33 5G",
+          "results": 35
+        },
+        {
+          "id": "12039287",
+          "name": "20E",
+          "results": 35
+        },
+        {
+          "id": "11960554",
+          "name": "S22+ (Snapdragon)",
+          "results": 35
+        },
+        {
+          "id": "11654886",
+          "name": "A03 Core Dual SIM",
+          "results": 35
+        },
+        {
+          "id": "1158067",
+          "name": "C Plus",
+          "results": 35
+        },
+        {
+          "id": "1115611",
+          "name": "E4 Plus",
+          "results": 35
+        },
+        {
+          "id": "11065341",
+          "name": "S21+ 5G Dual SIM",
+          "results": 35
+        },
+        {
+          "id": "10272",
+          "name": "G100",
+          "results": 35
+        },
+        {
+          "id": "102288",
+          "name": "S6",
+          "results": 35
+        },
+        {
+          "id": "9806048",
+          "name": "9 (Global)",
+          "results": 28
+        },
+        {
+          "id": "8902004",
+          "name": "G41",
+          "results": 28
+        },
+        {
+          "id": "8786479",
+          "name": "9A",
+          "results": 28
+        },
+        {
+          "id": "8212071",
+          "name": "K50S",
+          "results": 28
+        },
+        {
+          "id": "8045140",
+          "name": "P Smart",
+          "results": 28
+        },
+        {
+          "id": "8041152",
+          "name": "Mate 9 Lite",
+          "results": 28
+        },
+        {
+          "id": "7979121",
+          "name": "Note 10",
+          "results": 28
+        },
+        {
+          "id": "7753462",
+          "name": "A10s Duos",
+          "results": 28
+        },
+        {
+          "id": "7753383",
+          "name": "Note10",
+          "results": 28
+        },
+        {
+          "id": "7112057",
+          "name": "A10 Duos",
+          "results": 28
+        },
+        {
+          "id": "6938410",
+          "name": "9 SE",
+          "results": 28
+        },
+        {
+          "id": "6008563",
+          "name": "J4+",
+          "results": 28
+        },
+        {
+          "id": "5790248",
+          "name": "G32",
+          "results": 28
+        },
+        {
+          "id": "508422",
+          "name": "E (2nd Gen.) Dual SIM",
+          "results": 28
+        },
+        {
+          "id": "4904058",
+          "name": "8 Plus",
+          "results": 28
+        },
+        {
+          "id": "419509",
+          "name": "A7 (2017)",
+          "results": 28
+        },
+        {
+          "id": "360867",
+          "name": "G4 Play",
+          "results": 28
+        },
+        {
+          "id": "34546",
+          "name": "1",
+          "results": 28
+        },
+        {
+          "id": "290852",
+          "name": "K8",
+          "results": 28
+        },
+        {
+          "id": "2777561",
+          "name": "K61",
+          "results": 28
+        },
+        {
+          "id": "22439",
+          "name": "G52",
+          "results": 28
+        },
+        {
+          "id": "184685",
+          "name": "X Play",
+          "results": 28
+        },
+        {
+          "id": "15449328",
+          "name": "A04s",
+          "results": 28
+        },
+        {
+          "id": "13002508",
+          "name": "D65LX",
+          "results": 28
+        },
+        {
+          "id": "12631401",
+          "name": "S22 Ultra 5G Dual SIM (Snapdragon)",
+          "results": 28
+        },
+        {
+          "id": "121559",
+          "name": "A5",
+          "results": 28
+        },
+        {
+          "id": "11889214",
+          "name": "Note 11 (Snapdragon)",
+          "results": 28
+        },
+        {
+          "id": "11510896",
+          "name": "M4 Pro 5G",
+          "results": 28
+        },
+        {
+          "id": "11303578",
+          "name": "11T Pro",
+          "results": 28
+        },
+        {
+          "id": "11289380",
+          "name": "A52s 5G",
+          "results": 28
+        },
+        {
+          "id": "11068212",
+          "name": "A21s Dual SIM",
+          "results": 28
+        },
+        {
+          "id": "11058374",
+          "name": "A71 Dual SIM",
+          "results": 28
+        },
+        {
+          "id": "10782985",
+          "name": "YOLO",
+          "results": 28
+        },
+        {
+          "id": "9869998",
+          "name": "G30 Dual SIM",
+          "results": 21
+        },
+        {
+          "id": "8217862",
+          "name": "Note 9S",
+          "results": 21
+        },
+        {
+          "id": "8086607",
+          "name": "106 (2018)",
+          "results": 21
+        },
+        {
+          "id": "8041156",
+          "name": "Mate 10 Lite",
+          "results": 21
+        },
+        {
+          "id": "8002047",
+          "name": "1 Plus",
+          "results": 21
+        },
+        {
+          "id": "79819",
+          "name": "K22",
+          "results": 21
+        },
+        {
+          "id": "7798176",
+          "name": "One Action",
+          "results": 21
+        },
+        {
+          "id": "7103125",
+          "name": "A20 Duos",
+          "results": 21
+        },
+        {
+          "id": "67351",
+          "name": "A8",
+          "results": 21
+        },
+        {
+          "id": "6358",
+          "name": "S20",
+          "results": 21
+        },
+        {
+          "id": "56013",
+          "name": "520",
+          "results": 21
+        },
+        {
+          "id": "52828",
+          "name": "7 Plus",
+          "results": 21
+        },
+        {
+          "id": "503995",
+          "name": "J1 Ace 4G",
+          "results": 21
+        },
+        {
+          "id": "4957161",
+          "name": "Note 6 Pro",
+          "results": 21
+        },
+        {
+          "id": "49426",
+          "name": "9",
+          "results": 21
+        },
+        {
+          "id": "4694678",
+          "name": "A8 (2018)",
+          "results": 21
+        },
+        {
+          "id": "419510",
+          "name": "A7 (2017) Duos",
+          "results": 21
+        },
+        {
+          "id": "36221",
+          "name": "8520",
+          "results": 21
+        },
+        {
+          "id": "3412719",
+          "name": "Z3 Play",
+          "results": 21
+        },
+        {
+          "id": "3403992",
+          "name": "A6+",
+          "results": 21
+        },
+        {
+          "id": "33743",
+          "name": "S4",
+          "results": 21
+        },
+        {
+          "id": "333994",
+          "name": "Core",
+          "results": 21
+        },
+        {
+          "id": "3088987",
+          "name": "E5 Plus",
+          "results": 21
+        },
+        {
+          "id": "2788376",
+          "name": "K4 (2017)",
+          "results": 21
+        },
+        {
+          "id": "2738054",
+          "name": "9C",
+          "results": 21
+        },
+        {
+          "id": "2336003",
+          "name": "Fold",
+          "results": 21
+        },
+        {
+          "id": "200412",
+          "name": "Z5",
+          "results": 21
+        },
+        {
+          "id": "195880",
+          "name": "A8 Duos",
+          "results": 21
+        },
+        {
+          "id": "175584",
+          "name": "A7",
+          "results": 21
+        },
+        {
+          "id": "16271460",
+          "name": "S21 FE 5G (Exynos)",
+          "results": 21
+        },
+        {
+          "id": "15354892",
+          "name": "Galaxy Z Fold 4",
+          "results": 21
+        },
+        {
+          "id": "14938899",
+          "name": "A04e",
+          "results": 21
+        },
+        {
+          "id": "13424447",
+          "name": "Moto E22",
+          "results": 21
+        },
+        {
+          "id": "13261099",
+          "name": "M13 Dual SIM",
+          "results": 21
+        },
+        {
+          "id": "13217172",
+          "name": "30 Fusion",
+          "results": 21
+        },
+        {
+          "id": "13188537",
+          "name": "iPhone 14 Plus",
+          "results": 21
+        },
+        {
+          "id": "13076422",
+          "name": "BV6600 Pro",
+          "results": 21
+        },
+        {
+          "id": "12942618",
+          "name": "A22 Dual SIM",
+          "results": 21
+        },
+        {
+          "id": "12892255",
+          "name": "M13",
+          "results": 21
+        },
+        {
+          "id": "12002713",
+          "name": "A13 Dual SIM",
+          "results": 21
+        },
+        {
+          "id": "12001154",
+          "name": "Note 11 Pro+ 5G (MediaTek)",
+          "results": 21
+        },
+        {
+          "id": "11765035",
+          "name": "A51 Dual SIM",
+          "results": 21
+        },
+        {
+          "id": "11600163",
+          "name": "Pixel 6",
+          "results": 21
+        },
+        {
+          "id": "11551155",
+          "name": "Pixel 6 Pro",
+          "results": 21
+        },
+        {
+          "id": "11271110",
+          "name": "11T",
+          "results": 21
+        },
+        {
+          "id": "11058589",
+          "name": "A02s Dual SIM",
+          "results": 21
+        },
+        {
+          "id": "11058030",
+          "name": "A32 Dual SIM",
+          "results": 21
+        },
+        {
+          "id": "11004844",
+          "name": "Poco X3 GT",
+          "results": 21
+        },
+        {
+          "id": "10570",
+          "name": "1100",
+          "results": 21
+        },
+        {
+          "id": "10185056",
+          "name": "Poco X3 Pro",
+          "results": 21
+        },
+        {
+          "id": "10185055",
+          "name": "Poco F3 5G",
+          "results": 21
+        },
+        {
+          "id": "10041646",
+          "name": "E6i Dual SIM",
+          "results": 21
+        },
+        {
+          "id": "9961150",
+          "name": "A52 5G",
+          "results": 14
+        },
+        {
+          "id": "9772356",
+          "name": "Note 9T",
+          "results": 14
+        },
+        {
+          "id": "9772343",
+          "name": "L7+",
+          "results": 14
+        },
+        {
+          "id": "9730895",
+          "name": "K52 (48 Mpx)",
+          "results": 14
+        },
+        {
+          "id": "9722721",
+          "name": "A5 Plus",
+          "results": 14
+        },
+        {
+          "id": "972241",
+          "name": "XA1",
+          "results": 14
+        },
+        {
+          "id": "9676776",
+          "name": "6s",
+          "results": 14
+        },
+        {
+          "id": "9301",
+          "name": "208",
+          "results": 14
+        },
+        {
+          "id": "9234470",
+          "name": "6300 4G Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "9188849",
+          "name": "9C NFC",
+          "results": 14
+        },
+        {
+          "id": "9168202",
+          "name": "Nord N100",
+          "results": 14
+        },
+        {
+          "id": "9168195",
+          "name": "G9 Power Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "9167696",
+          "name": "BV6300",
+          "results": 14
+        },
+        {
+          "id": "9121",
+          "name": "L7",
+          "results": 14
+        },
+        {
+          "id": "911",
+          "name": "Titanium",
+          "results": 14
+        },
+        {
+          "id": "9100979",
+          "name": "Note 9 Pro (64 Mpx)",
+          "results": 14
+        },
+        {
+          "id": "9076",
+          "name": "302",
+          "results": 14
+        },
+        {
+          "id": "9029295",
+          "name": "Poco X3 NFC",
+          "results": 14
+        },
+        {
+          "id": "9017653",
+          "name": "Nord",
+          "results": 14
+        },
+        {
+          "id": "8943",
+          "name": "100",
+          "results": 14
+        },
+        {
+          "id": "8920",
+          "name": "One X",
+          "results": 14
+        },
+        {
+          "id": "8835",
+          "name": "C3-00",
+          "results": 14
+        },
+        {
+          "id": "8819472",
+          "name": "G8 Power Lite Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "8659440",
+          "name": "Note5",
+          "results": 14
+        },
+        {
+          "id": "8477871",
+          "name": "2.3",
+          "results": 14
+        },
+        {
+          "id": "8293963",
+          "name": "J5 (2017)",
+          "results": 14
+        },
+        {
+          "id": "8218950",
+          "name": "BV6600",
+          "results": 14
+        },
+        {
+          "id": "8160191",
+          "name": "S6 Edge+",
+          "results": 14
+        },
+        {
+          "id": "8081589",
+          "name": "S20 Ultra",
+          "results": 14
+        },
+        {
+          "id": "8045662",
+          "name": "L1 Pro",
+          "results": 14
+        },
+        {
+          "id": "8044070",
+          "name": "S III Mini",
+          "results": 14
+        },
+        {
+          "id": "8041150",
+          "name": "P9 Lite",
+          "results": 14
+        },
+        {
+          "id": "8041145",
+          "name": "P30 Lite",
+          "results": 14
+        },
+        {
+          "id": "7969023",
+          "name": "Pixel 2 XL",
+          "results": 14
+        },
+        {
+          "id": "7917823",
+          "name": "E5 Play (Go Edition)",
+          "results": 14
+        },
+        {
+          "id": "7905031",
+          "name": "G8 Play Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "7868336",
+          "name": "3.1 Plus",
+          "results": 14
+        },
+        {
+          "id": "7762753",
+          "name": "9 Lite",
+          "results": 14
+        },
+        {
+          "id": "76190",
+          "name": "Pop C7",
+          "results": 14
+        },
+        {
+          "id": "7493",
+          "name": "A60",
+          "results": 14
+        },
+        {
+          "id": "74859",
+          "name": "S III",
+          "results": 14
+        },
+        {
+          "id": "7477394",
+          "name": "J4 Core",
+          "results": 14
+        },
+        {
+          "id": "7376644",
+          "name": "10 Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "7295121",
+          "name": "Go2 N451",
+          "results": 14
+        },
+        {
+          "id": "7167523",
+          "name": "G4 Plus Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "6988453",
+          "name": "10 Lite",
+          "results": 14
+        },
+        {
+          "id": "6580441",
+          "name": "GT-C3592",
+          "results": 14
+        },
+        {
+          "id": "6503777",
+          "name": "G7 Power Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "6503725",
+          "name": "J7 6",
+          "results": 14
+        },
+        {
+          "id": "60043",
+          "name": "Note",
+          "results": 14
+        },
+        {
+          "id": "59833",
+          "name": "6",
+          "results": 14
+        },
+        {
+          "id": "59795",
+          "name": "Chat",
+          "results": 14
+        },
+        {
+          "id": "59791",
+          "name": "S5",
+          "results": 14
+        },
+        {
+          "id": "59325",
+          "name": "503",
+          "results": 14
+        },
+        {
+          "id": "58615",
+          "name": "5",
+          "results": 14
+        },
+        {
+          "id": "5849142",
+          "name": "Q6 Alpha",
+          "results": 14
+        },
+        {
+          "id": "5615725",
+          "name": "S191",
+          "results": 14
+        },
+        {
+          "id": "5609488",
+          "name": "S6 Active",
+          "results": 14
+        },
+        {
+          "id": "5474503",
+          "name": "1X",
+          "results": 14
+        },
+        {
+          "id": "5238501",
+          "name": "One Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "470495",
+          "name": "S8+ Duos",
+          "results": 14
+        },
+        {
+          "id": "465456",
+          "name": "A21",
+          "results": 14
+        },
+        {
+          "id": "44111",
+          "name": "10C",
+          "results": 14
+        },
+        {
+          "id": "43854",
+          "name": "K50",
+          "results": 14
+        },
+        {
+          "id": "42816",
+          "name": "K10",
+          "results": 14
+        },
+        {
+          "id": "422856",
+          "name": "S23",
+          "results": 14
+        },
+        {
+          "id": "420007",
+          "name": "G5 Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "418685",
+          "name": "K8 (2017)",
+          "results": 14
+        },
+        {
+          "id": "416193",
+          "name": "E5 Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "416141",
+          "name": "A5 (2017)",
+          "results": 14
+        },
+        {
+          "id": "415257",
+          "name": "G4 Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "397987",
+          "name": "Q20",
+          "results": 14
+        },
+        {
+          "id": "397752",
+          "name": "Z Play",
+          "results": 14
+        },
+        {
+          "id": "3957301",
+          "name": "6A",
+          "results": 14
+        },
+        {
+          "id": "3926628",
+          "name": "A2 Lite",
+          "results": 14
+        },
+        {
+          "id": "367754",
+          "name": "J7 (2016) Duos",
+          "results": 14
+        },
+        {
+          "id": "3599",
+          "name": "A255",
+          "results": 14
+        },
+        {
+          "id": "3586308",
+          "name": "S9 Duos",
+          "results": 14
+        },
+        {
+          "id": "35541",
+          "name": "V60i",
+          "results": 14
+        },
+        {
+          "id": "34954",
+          "name": "Z2",
+          "results": 14
+        },
+        {
+          "id": "33775",
+          "name": "1208",
+          "results": 14
+        },
+        {
+          "id": "32763",
+          "name": "6131",
+          "results": 14
+        },
+        {
+          "id": "32074",
+          "name": "8700",
+          "results": 14
+        },
+        {
+          "id": "290850",
+          "name": "B220A",
+          "results": 14
+        },
+        {
+          "id": "2798",
+          "name": "V10",
+          "results": 14
+        },
+        {
+          "id": "275004",
+          "name": "G (1st Gen.)",
+          "results": 14
+        },
+        {
+          "id": "27212",
+          "name": "K1",
+          "results": 14
+        },
+        {
+          "id": "264634",
+          "name": "G4 Plus",
+          "results": 14
+        },
+        {
+          "id": "2587956",
+          "name": "20B",
+          "results": 14
+        },
+        {
+          "id": "258353",
+          "name": "P8 Lite",
+          "results": 14
+        },
+        {
+          "id": "2567428",
+          "name": "J2 Prime Duos",
+          "results": 14
+        },
+        {
+          "id": "2250348",
+          "name": "Velvet",
+          "results": 14
+        },
+        {
+          "id": "2216840",
+          "name": "5T",
+          "results": 14
+        },
+        {
+          "id": "2117760",
+          "name": "F183",
+          "results": 14
+        },
+        {
+          "id": "199623",
+          "name": "J2",
+          "results": 14
+        },
+        {
+          "id": "196354",
+          "name": "J1 Ace",
+          "results": 14
+        },
+        {
+          "id": "195831",
+          "name": "Leon LTE",
+          "results": 14
+        },
+        {
+          "id": "17123",
+          "name": "Switch",
+          "results": 14
+        },
+        {
+          "id": "156630",
+          "name": "S4 Mini",
+          "results": 14
+        },
+        {
+          "id": "15306386",
+          "name": "E22i",
+          "results": 14
+        },
+        {
+          "id": "15027",
+          "name": "Joy",
+          "results": 14
+        },
+        {
+          "id": "14992433",
+          "name": "Motorola Edge 30 Neo",
+          "results": 14
+        },
+        {
+          "id": "14610",
+          "name": "iPhone 4",
+          "results": 14
+        },
+        {
+          "id": "14254",
+          "name": "2020",
+          "results": 14
+        },
+        {
+          "id": "13558028",
+          "name": "Q-Rash",
+          "results": 14
+        },
+        {
+          "id": "13509456",
+          "name": "A60+",
+          "results": 14
+        },
+        {
+          "id": "13497656",
+          "name": "A50+",
+          "results": 14
+        },
+        {
+          "id": "13319177",
+          "name": "S22 (Exynos)",
+          "results": 14
+        },
+        {
+          "id": "13317693",
+          "name": "S22 (Snapdragon)",
+          "results": 14
+        },
+        {
+          "id": "13264002",
+          "name": "30 Ultra",
+          "results": 14
+        },
+        {
+          "id": "13153268",
+          "name": "30 SE",
+          "results": 14
+        },
+        {
+          "id": "13149000",
+          "name": "30E",
+          "results": 14
+        },
+        {
+          "id": "12917306",
+          "name": "30 Pro Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "12634025",
+          "name": "M23 5G",
+          "results": 14
+        },
+        {
+          "id": "1249909",
+          "name": "G5S Plus Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "12316996",
+          "name": "Note 11 Pro 5G (Snapdragon)",
+          "results": 14
+        },
+        {
+          "id": "12172044",
+          "name": "Indus",
+          "results": 14
+        },
+        {
+          "id": "121339",
+          "name": "M4 Aqua",
+          "results": 14
+        },
+        {
+          "id": "12098",
+          "name": "C4",
+          "results": 14
+        },
+        {
+          "id": "12097019",
+          "name": "G51 5G Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "11983967",
+          "name": "BV8800",
+          "results": 14
+        },
+        {
+          "id": "11824708",
+          "name": "A20s Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "11669503",
+          "name": "V30 Vita",
+          "results": 14
+        },
+        {
+          "id": "11651308",
+          "name": "E1272",
+          "results": 14
+        },
+        {
+          "id": "11415",
+          "name": "E323",
+          "results": 14
+        },
+        {
+          "id": "11359790",
+          "name": "11 Lite 5G NE",
+          "results": 14
+        },
+        {
+          "id": "11286061",
+          "name": "E20 Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "11284100",
+          "name": "G60s Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "11178784",
+          "name": "iPhone 13 mini",
+          "results": 14
+        },
+        {
+          "id": "11094225",
+          "name": "8 (Global)",
+          "results": 14
+        },
+        {
+          "id": "11065057",
+          "name": "S20 FE Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "11060938",
+          "name": "A31 Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "11058626",
+          "name": "A01 Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "10810473",
+          "name": "A6 Mini",
+          "results": 14
+        },
+        {
+          "id": "107679",
+          "name": "Air",
+          "results": 14
+        },
+        {
+          "id": "10761330",
+          "name": "E7i Power Dual SIM",
+          "results": 14
+        },
+        {
+          "id": "10615148",
+          "name": "24 M",
+          "results": 14
+        },
+        {
+          "id": "10567657",
+          "name": "Poco M3 Pro 5G",
+          "results": 14
+        },
+        {
+          "id": "105208",
+          "name": "Grand Neo Plus",
+          "results": 14
+        },
+        {
+          "id": "10185059",
+          "name": "11 Lite",
+          "results": 14
+        },
+        {
+          "id": "10182",
+          "name": "S401",
+          "results": 14
+        },
+        {
+          "id": "10070",
+          "name": "305",
+          "results": 14
+        },
+        {
+          "id": "9870000",
+          "name": "L10 Lite",
+          "results": 7
+        },
+        {
+          "id": "9869999",
+          "name": "A32 5G",
+          "results": 7
+        },
+        {
+          "id": "98379",
+          "name": "P610",
+          "results": 7
+        },
+        {
+          "id": "9833",
+          "name": "20",
+          "results": 7
+        },
+        {
+          "id": "9824396",
+          "name": "S59 Pro",
+          "results": 7
+        },
+        {
+          "id": "9814490",
+          "name": "E40 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "97885",
+          "name": "Core 2",
+          "results": 7
+        },
+        {
+          "id": "97882",
+          "name": "G (2nd Gen.)",
+          "results": 7
+        },
+        {
+          "id": "9787",
+          "name": "550",
+          "results": 7
+        },
+        {
+          "id": "9772359",
+          "name": "10X 5G",
+          "results": 7
+        },
+        {
+          "id": "9772341",
+          "name": "S21 Ultra 5G Duos",
+          "results": 7
+        },
+        {
+          "id": "9772337",
+          "name": "S21 5G Duos",
+          "results": 7
+        },
+        {
+          "id": "9759457",
+          "name": "BV6300 Pro",
+          "results": 7
+        },
+        {
+          "id": "972239",
+          "name": "Z2 Play",
+          "results": 7
+        },
+        {
+          "id": "9708",
+          "name": "E4",
+          "results": 7
+        },
+        {
+          "id": "9631",
+          "name": "Passport",
+          "results": 7
+        },
+        {
+          "id": "9539408",
+          "name": "Note 9 Pro 5G",
+          "results": 7
+        },
+        {
+          "id": "9539406",
+          "name": "Poco M3",
+          "results": 7
+        },
+        {
+          "id": "9502793",
+          "name": "P40 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "9476",
+          "name": "610",
+          "results": 7
+        },
+        {
+          "id": "9273797",
+          "name": "A3 Plus 4G",
+          "results": 7
+        },
+        {
+          "id": "9272933",
+          "name": "BV5900",
+          "results": 7
+        },
+        {
+          "id": "9267",
+          "name": "10",
+          "results": 7
+        },
+        {
+          "id": "9234484",
+          "name": "BV4900 Pro",
+          "results": 7
+        },
+        {
+          "id": "9168201",
+          "name": "Nord N10 5G",
+          "results": 7
+        },
+        {
+          "id": "9167752",
+          "name": "Poco X3",
+          "results": 7
+        },
+        {
+          "id": "9167686",
+          "name": "10 SE Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "9167685",
+          "name": "10 SE",
+          "results": 7
+        },
+        {
+          "id": "9156413",
+          "name": "E6s (2020) Special Edition",
+          "results": 7
+        },
+        {
+          "id": "9155837",
+          "name": "GW Metal Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "913",
+          "name": "7230",
+          "results": 7
+        },
+        {
+          "id": "9094",
+          "name": "9380",
+          "results": 7
+        },
+        {
+          "id": "9069",
+          "name": "500",
+          "results": 7
+        },
+        {
+          "id": "9064",
+          "name": "200",
+          "results": 7
+        },
+        {
+          "id": "9062744",
+          "name": "9i",
+          "results": 7
+        },
+        {
+          "id": "9062741",
+          "name": "10T Lite 5G",
+          "results": 7
+        },
+        {
+          "id": "9042",
+          "name": "i897",
+          "results": 7
+        },
+        {
+          "id": "9026309",
+          "name": "Z Fold2",
+          "results": 7
+        },
+        {
+          "id": "9022893",
+          "name": "150 (2020)",
+          "results": 7
+        },
+        {
+          "id": "9022883",
+          "name": "G9 Plus Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "9009350",
+          "name": "Y8p",
+          "results": 7
+        },
+        {
+          "id": "9009344",
+          "name": "P30 Pro New Edition Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "9005820",
+          "name": "Pixel 4a",
+          "results": 7
+        },
+        {
+          "id": "9005818",
+          "name": "S62 Pro Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "9005816",
+          "name": "S42 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8947",
+          "name": "N97",
+          "results": 7
+        },
+        {
+          "id": "8903",
+          "name": "X2-00",
+          "results": 7
+        },
+        {
+          "id": "8853",
+          "name": "Pocket",
+          "results": 7
+        },
+        {
+          "id": "8808",
+          "name": "5230",
+          "results": 7
+        },
+        {
+          "id": "8781",
+          "name": "1616",
+          "results": 7
+        },
+        {
+          "id": "8752",
+          "name": "Live with Walkman",
+          "results": 7
+        },
+        {
+          "id": "8748334",
+          "name": "K61 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8727",
+          "name": "L1",
+          "results": 7
+        },
+        {
+          "id": "8707092",
+          "name": "E10+",
+          "results": 7
+        },
+        {
+          "id": "8701824",
+          "name": "V60 ThinQ 5G",
+          "results": 7
+        },
+        {
+          "id": "8701281",
+          "name": "K41S",
+          "results": 7
+        },
+        {
+          "id": "8620",
+          "name": "E550",
+          "results": 7
+        },
+        {
+          "id": "8295495",
+          "name": "Y7p",
+          "results": 7
+        },
+        {
+          "id": "8269348",
+          "name": "P40 Lite Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8232284",
+          "name": "P40 Pro",
+          "results": 7
+        },
+        {
+          "id": "8212064",
+          "name": "K50S Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8202809",
+          "name": "G8 Power Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8172997",
+          "name": "One Macro Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8164922",
+          "name": "G9 Pro",
+          "results": 7
+        },
+        {
+          "id": "8162571",
+          "name": "S4 Zoom",
+          "results": 7
+        },
+        {
+          "id": "8160195",
+          "name": "S7 Edge Duos",
+          "results": 7
+        },
+        {
+          "id": "8160184",
+          "name": "S6 Edge",
+          "results": 7
+        },
+        {
+          "id": "8154929",
+          "name": "Müv",
+          "results": 7
+        },
+        {
+          "id": "8150373",
+          "name": "V Ultra",
+          "results": 7
+        },
+        {
+          "id": "8143828",
+          "name": "Mate 30 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8120957",
+          "name": "S52 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8108518",
+          "name": "7T",
+          "results": 7
+        },
+        {
+          "id": "8081591",
+          "name": "S20 Ultra 5G",
+          "results": 7
+        },
+        {
+          "id": "8081583",
+          "name": "S20 5G",
+          "results": 7
+        },
+        {
+          "id": "8060006",
+          "name": "A3 Lite",
+          "results": 7
+        },
+        {
+          "id": "8045234",
+          "name": "Nova 3i",
+          "results": 7
+        },
+        {
+          "id": "8044069",
+          "name": "J1 Mini",
+          "results": 7
+        },
+        {
+          "id": "8044067",
+          "name": "S4 Mini Duos",
+          "results": 7
+        },
+        {
+          "id": "8041155",
+          "name": "Mate 10 Lite Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8041153",
+          "name": "P8 Lite Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8041148",
+          "name": "P9 Lite Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8041144",
+          "name": "P30 Lite Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "8018821",
+          "name": "K40S",
+          "results": 7
+        },
+        {
+          "id": "8012935",
+          "name": "One Hyper Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "7966812",
+          "name": "A30s Duos",
+          "results": 7
+        },
+        {
+          "id": "7953161",
+          "name": "Note 8T",
+          "results": 7
+        },
+        {
+          "id": "7930599",
+          "name": "BV9800 Pro",
+          "results": 7
+        },
+        {
+          "id": "7897573",
+          "name": "XA1 Plus",
+          "results": 7
+        },
+        {
+          "id": "7876321",
+          "name": "Pixel 4 XL",
+          "results": 7
+        },
+        {
+          "id": "7874374",
+          "name": "Pixel 3a",
+          "results": 7
+        },
+        {
+          "id": "7873385",
+          "name": "S60 Lite",
+          "results": 7
+        },
+        {
+          "id": "7867805",
+          "name": "E6 Plus Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "7829537",
+          "name": "P30 Pro Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "7753384",
+          "name": "Note10 Duos",
+          "results": 7
+        },
+        {
+          "id": "7720292",
+          "name": "9T Pro",
+          "results": 7
+        },
+        {
+          "id": "7698",
+          "name": "A1",
+          "results": 7
+        },
+        {
+          "id": "7682",
+          "name": "C200",
+          "results": 7
+        },
+        {
+          "id": "7639621",
+          "name": "P30 Pro",
+          "results": 7
+        },
+        {
+          "id": "75300",
+          "name": "W3500",
+          "results": 7
+        },
+        {
+          "id": "75299",
+          "name": "G2 Mini",
+          "results": 7
+        },
+        {
+          "id": "7498756",
+          "name": "Max 3",
+          "results": 7
+        },
+        {
+          "id": "74955",
+          "name": "Activa 4G",
+          "results": 7
+        },
+        {
+          "id": "7468852",
+          "name": "One Vision Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "7452574",
+          "name": "4 ZE554KL (Snapdragon 630)",
+          "results": 7
+        },
+        {
+          "id": "7167517",
+          "name": "Z Play Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "7166792",
+          "name": "3s Max ZC521TL",
+          "results": 7
+        },
+        {
+          "id": "7159028",
+          "name": "2 Laser ZE601KL",
+          "results": 7
+        },
+        {
+          "id": "7147799",
+          "name": "210 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "6982670",
+          "name": "P30 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "6927878",
+          "name": "8X Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "6881291",
+          "name": "Note 7",
+          "results": 7
+        },
+        {
+          "id": "6805971",
+          "name": "Note 7 Pro",
+          "results": 7
+        },
+        {
+          "id": "6669726",
+          "name": "S10e Duos",
+          "results": 7
+        },
+        {
+          "id": "6669719",
+          "name": "S10 Duos",
+          "results": 7
+        },
+        {
+          "id": "6669713",
+          "name": "S10+ Duos",
+          "results": 7
+        },
+        {
+          "id": "6521048",
+          "name": "TXT GT-B5510",
+          "results": 7
+        },
+        {
+          "id": "6473",
+          "name": "Classic",
+          "results": 7
+        },
+        {
+          "id": "63929",
+          "name": "918",
+          "results": 7
+        },
+        {
+          "id": "6387",
+          "name": "X5",
+          "results": 7
+        },
+        {
+          "id": "6327806",
+          "name": "Pixi 3 (4.5) 4G",
+          "results": 7
+        },
+        {
+          "id": "6200243",
+          "name": "A3 Pro",
+          "results": 7
+        },
+        {
+          "id": "6178581",
+          "name": "J2 Core Duos",
+          "results": 7
+        },
+        {
+          "id": "6177910",
+          "name": "J3 (2018)",
+          "results": 7
+        },
+        {
+          "id": "6090296",
+          "name": "MOTOKEY Social EX225",
+          "results": 7
+        },
+        {
+          "id": "6077353",
+          "name": "Julia GB230",
+          "results": 7
+        },
+        {
+          "id": "60311",
+          "name": "Leon",
+          "results": 7
+        },
+        {
+          "id": "60034",
+          "name": "Grand 2",
+          "results": 7
+        },
+        {
+          "id": "60004",
+          "name": "Trend Lite",
+          "results": 7
+        },
+        {
+          "id": "59508",
+          "name": "Y301-A2",
+          "results": 7
+        },
+        {
+          "id": "59481",
+          "name": "2",
+          "results": 7
+        },
+        {
+          "id": "59479",
+          "name": "Defy+ MB526",
+          "results": 7
+        },
+        {
+          "id": "59404",
+          "name": "Zoey",
+          "results": 7
+        },
+        {
+          "id": "59345",
+          "name": "T2 Ultra",
+          "results": 7
+        },
+        {
+          "id": "59332",
+          "name": "1020",
+          "results": 7
+        },
+        {
+          "id": "59208",
+          "name": "5.5",
+          "results": 7
+        },
+        {
+          "id": "5916758",
+          "name": "Optimus Pro",
+          "results": 7
+        },
+        {
+          "id": "59000",
+          "name": "5s",
+          "results": 7
+        },
+        {
+          "id": "5857",
+          "name": "D5000",
+          "results": 7
+        },
+        {
+          "id": "5855444",
+          "name": "A9 (2018) Duos",
+          "results": 7
+        },
+        {
+          "id": "5742063",
+          "name": "A5C",
+          "results": 7
+        },
+        {
+          "id": "5735534",
+          "name": "Mate 20 Pro Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "5735525",
+          "name": "A9 (2018)",
+          "results": 7
+        },
+        {
+          "id": "5729",
+          "name": "XS",
+          "results": 7
+        },
+        {
+          "id": "57020",
+          "name": "A",
+          "results": 7
+        },
+        {
+          "id": "56864",
+          "name": "L",
+          "results": 7
+        },
+        {
+          "id": "5678639",
+          "name": "Vibe K5",
+          "results": 7
+        },
+        {
+          "id": "56533",
+          "name": "4G",
+          "results": 7
+        },
+        {
+          "id": "5640177",
+          "name": "J7 Neo Duos",
+          "results": 7
+        },
+        {
+          "id": "5640167",
+          "name": "J7 Prime Duos",
+          "results": 7
+        },
+        {
+          "id": "5638022",
+          "name": "A8 (2018) Duos",
+          "results": 7
+        },
+        {
+          "id": "557490",
+          "name": "Z Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "55272",
+          "name": "ZL",
+          "results": 7
+        },
+        {
+          "id": "5489094",
+          "name": "6.1 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "5465043",
+          "name": "Vibe B Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "5454765",
+          "name": "A7 (2018)",
+          "results": 7
+        },
+        {
+          "id": "5445796",
+          "name": "BV9500",
+          "results": 7
+        },
+        {
+          "id": "5227427",
+          "name": "Zoey Flex",
+          "results": 7
+        },
+        {
+          "id": "51545",
+          "name": "GT-E1205",
+          "results": 7
+        },
+        {
+          "id": "49666",
+          "name": "C5",
+          "results": 7
+        },
+        {
+          "id": "49506",
+          "name": "3",
+          "results": 7
+        },
+        {
+          "id": "4944",
+          "name": "L20",
+          "results": 7
+        },
+        {
+          "id": "4925664",
+          "name": "Max 2",
+          "results": 7
+        },
+        {
+          "id": "483633",
+          "name": "P10 Plus",
+          "results": 7
+        },
+        {
+          "id": "48203",
+          "name": "Motosmart",
+          "results": 7
+        },
+        {
+          "id": "46485",
+          "name": "Note II",
+          "results": 7
+        },
+        {
+          "id": "46476",
+          "name": "J",
+          "results": 7
+        },
+        {
+          "id": "457220",
+          "name": "i786w",
+          "results": 7
+        },
+        {
+          "id": "45327",
+          "name": "11",
+          "results": 7
+        },
+        {
+          "id": "4502398",
+          "name": "Pocophone F1",
+          "results": 7
+        },
+        {
+          "id": "445968",
+          "name": "G5 Plus Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "44122",
+          "name": "V7",
+          "results": 7
+        },
+        {
+          "id": "440559",
+          "name": "GW",
+          "results": 7
+        },
+        {
+          "id": "43758",
+          "name": "GT-C3520",
+          "results": 7
+        },
+        {
+          "id": "43756",
+          "name": "S3",
+          "results": 7
+        },
+        {
+          "id": "42915",
+          "name": "S",
+          "results": 7
+        },
+        {
+          "id": "420981",
+          "name": "IronRock",
+          "results": 7
+        },
+        {
+          "id": "418687",
+          "name": "K8 (2017) Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "415176",
+          "name": "X Pro",
+          "results": 7
+        },
+        {
+          "id": "415017",
+          "name": "G (2nd Gen.) Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "407921",
+          "name": "X Pure Edition",
+          "results": 7
+        },
+        {
+          "id": "402745",
+          "name": "A7 (2016) Duos",
+          "results": 7
+        },
+        {
+          "id": "401187",
+          "name": "X Power",
+          "results": 7
+        },
+        {
+          "id": "40110",
+          "name": "M2",
+          "results": 7
+        },
+        {
+          "id": "40010",
+          "name": "KP110A",
+          "results": 7
+        },
+        {
+          "id": "399524",
+          "name": "G HD",
+          "results": 7
+        },
+        {
+          "id": "3871",
+          "name": "S80",
+          "results": 7
+        },
+        {
+          "id": "38058",
+          "name": "N93",
+          "results": 7
+        },
+        {
+          "id": "37931",
+          "name": "A6",
+          "results": 7
+        },
+        {
+          "id": "37907",
+          "name": "W5",
+          "results": 7
+        },
+        {
+          "id": "37627",
+          "name": "SGH-F250L",
+          "results": 7
+        },
+        {
+          "id": "37443",
+          "name": "WX295",
+          "results": 7
+        },
+        {
+          "id": "374072",
+          "name": "C5L",
+          "results": 7
+        },
+        {
+          "id": "3705",
+          "name": "Z30",
+          "results": 7
+        },
+        {
+          "id": "36349",
+          "name": "A1010",
+          "results": 7
+        },
+        {
+          "id": "361760",
+          "name": "Mate 8",
+          "results": 7
+        },
+        {
+          "id": "36171",
+          "name": "TeleTac 250",
+          "results": 7
+        },
+        {
+          "id": "360872",
+          "name": "XA",
+          "results": 7
+        },
+        {
+          "id": "35989",
+          "name": "5810",
+          "results": 7
+        },
+        {
+          "id": "35868",
+          "name": "A1260",
+          "results": 7
+        },
+        {
+          "id": "35676",
+          "name": "WX290",
+          "results": 7
+        },
+        {
+          "id": "35580",
+          "name": "Viva",
+          "results": 7
+        },
+        {
+          "id": "35447",
+          "name": "X300",
+          "results": 7
+        },
+        {
+          "id": "35219",
+          "name": "8700g",
+          "results": 7
+        },
+        {
+          "id": "34803",
+          "name": "BackFlip",
+          "results": 7
+        },
+        {
+          "id": "34802",
+          "name": "ST7860",
+          "results": 7
+        },
+        {
+          "id": "34459",
+          "name": "EX119",
+          "results": 7
+        },
+        {
+          "id": "34398",
+          "name": "SGH-T369",
+          "results": 7
+        },
+        {
+          "id": "34393",
+          "name": "6555",
+          "results": 7
+        },
+        {
+          "id": "34263",
+          "name": "U5705",
+          "results": 7
+        },
+        {
+          "id": "34236",
+          "name": "TyTN Hermes P4500",
+          "results": 7
+        },
+        {
+          "id": "3417770",
+          "name": "J6 Duos",
+          "results": 7
+        },
+        {
+          "id": "34059",
+          "name": "2720 Fold",
+          "results": 7
+        },
+        {
+          "id": "34045",
+          "name": "Z10",
+          "results": 7
+        },
+        {
+          "id": "34007",
+          "name": "S2",
+          "results": 7
+        },
+        {
+          "id": "34004",
+          "name": "Ultra",
+          "results": 7
+        },
+        {
+          "id": "33996",
+          "name": "97G",
+          "results": 7
+        },
+        {
+          "id": "33904",
+          "name": "SGH-J400",
+          "results": 7
+        },
+        {
+          "id": "33878",
+          "name": "V5",
+          "results": 7
+        },
+        {
+          "id": "33646",
+          "name": "XL2",
+          "results": 7
+        },
+        {
+          "id": "33620",
+          "name": "GT-E2530",
+          "results": 7
+        },
+        {
+          "id": "333932",
+          "name": "X Force",
+          "results": 7
+        },
+        {
+          "id": "33114",
+          "name": "W388",
+          "results": 7
+        },
+        {
+          "id": "33095",
+          "name": "i296",
+          "results": 7
+        },
+        {
+          "id": "3290607",
+          "name": "G7 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "32591",
+          "name": "Caracas",
+          "results": 7
+        },
+        {
+          "id": "32505",
+          "name": "i730",
+          "results": 7
+        },
+        {
+          "id": "322811",
+          "name": "RAZR D3",
+          "results": 7
+        },
+        {
+          "id": "32203",
+          "name": "2135",
+          "results": 7
+        },
+        {
+          "id": "320453",
+          "name": "G2 Lite",
+          "results": 7
+        },
+        {
+          "id": "31918",
+          "name": "6103",
+          "results": 7
+        },
+        {
+          "id": "31869",
+          "name": "3610 Fold",
+          "results": 7
+        },
+        {
+          "id": "31503",
+          "name": "GS155",
+          "results": 7
+        },
+        {
+          "id": "31339",
+          "name": "9700",
+          "results": 7
+        },
+        {
+          "id": "31228",
+          "name": "EM35",
+          "results": 7
+        },
+        {
+          "id": "31144",
+          "name": "1661",
+          "results": 7
+        },
+        {
+          "id": "31114",
+          "name": "P20",
+          "results": 7
+        },
+        {
+          "id": "3088992",
+          "name": "J2 Pro (2018)",
+          "results": 7
+        },
+        {
+          "id": "2903",
+          "name": "S60",
+          "results": 7
+        },
+        {
+          "id": "2860137",
+          "name": "XZ2",
+          "results": 7
+        },
+        {
+          "id": "2815957",
+          "name": "K62",
+          "results": 7
+        },
+        {
+          "id": "2795430",
+          "name": "K40",
+          "results": 7
+        },
+        {
+          "id": "2785814",
+          "name": "X Max",
+          "results": 7
+        },
+        {
+          "id": "2785747",
+          "name": "i485",
+          "results": 7
+        },
+        {
+          "id": "2689253",
+          "name": "J3 Prime",
+          "results": 7
+        },
+        {
+          "id": "264630",
+          "name": "Note 5",
+          "results": 7
+        },
+        {
+          "id": "26434",
+          "name": "X2",
+          "results": 7
+        },
+        {
+          "id": "262783",
+          "name": "J5 (2016)",
+          "results": 7
+        },
+        {
+          "id": "262735",
+          "name": "S7 Duos",
+          "results": 7
+        },
+        {
+          "id": "2584996",
+          "name": "Note8 Duos",
+          "results": 7
+        },
+        {
+          "id": "258350",
+          "name": "G (3rd Gen.) Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "258341",
+          "name": "J3 (2016) Duos",
+          "results": 7
+        },
+        {
+          "id": "258338",
+          "name": "J3 (2016)",
+          "results": 7
+        },
+        {
+          "id": "2559907",
+          "name": "10A",
+          "results": 7
+        },
+        {
+          "id": "2529719",
+          "name": "B26",
+          "results": 7
+        },
+        {
+          "id": "2487165",
+          "name": "MILESTONE 2 A953",
+          "results": 7
+        },
+        {
+          "id": "235417",
+          "name": "Young",
+          "results": 7
+        },
+        {
+          "id": "2309708",
+          "name": "J1 Mini Prime",
+          "results": 7
+        },
+        {
+          "id": "2272512",
+          "name": "ADR9",
+          "results": 7
+        },
+        {
+          "id": "2270333",
+          "name": "J5 Prime Duos",
+          "results": 7
+        },
+        {
+          "id": "225960",
+          "name": "Pop 3 (5)",
+          "results": 7
+        },
+        {
+          "id": "224652",
+          "name": "N720",
+          "results": 7
+        },
+        {
+          "id": "2241456",
+          "name": "7A",
+          "results": 7
+        },
+        {
+          "id": "223671",
+          "name": "640 LTE",
+          "results": 7
+        },
+        {
+          "id": "220011",
+          "name": "Tank II",
+          "results": 7
+        },
+        {
+          "id": "2192681",
+          "name": "XZ1 Compact",
+          "results": 7
+        },
+        {
+          "id": "217620",
+          "name": "Defy",
+          "results": 7
+        },
+        {
+          "id": "2142039",
+          "name": "Neo X",
+          "results": 7
+        },
+        {
+          "id": "2114542",
+          "name": "Desire 820 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "2113916",
+          "name": "509",
+          "results": 7
+        },
+        {
+          "id": "2085608",
+          "name": "W300",
+          "results": 7
+        },
+        {
+          "id": "2080423",
+          "name": "5.5 HD",
+          "results": 7
+        },
+        {
+          "id": "199790",
+          "name": "Prime Plus HDTV",
+          "results": 7
+        },
+        {
+          "id": "195883",
+          "name": "S5 New Edition",
+          "results": 7
+        },
+        {
+          "id": "19509",
+          "name": "222",
+          "results": 7
+        },
+        {
+          "id": "175583",
+          "name": "X Play Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "175451",
+          "name": "Open II",
+          "results": 7
+        },
+        {
+          "id": "17347",
+          "name": "10S",
+          "results": 7
+        },
+        {
+          "id": "17155",
+          "name": "i570",
+          "results": 7
+        },
+        {
+          "id": "17081",
+          "name": "i205",
+          "results": 7
+        },
+        {
+          "id": "165838",
+          "name": "SE",
+          "results": 7
+        },
+        {
+          "id": "16564",
+          "name": "7.1",
+          "results": 7
+        },
+        {
+          "id": "16502",
+          "name": "i760",
+          "results": 7
+        },
+        {
+          "id": "16278",
+          "name": "i410",
+          "results": 7
+        },
+        {
+          "id": "16271506",
+          "name": "S21 FE 5G (Snapdragon)",
+          "results": 7
+        },
+        {
+          "id": "16176344",
+          "name": "E22i Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "15881856",
+          "name": "Pixel 7",
+          "results": 7
+        },
+        {
+          "id": "15872",
+          "name": "N95",
+          "results": 7
+        },
+        {
+          "id": "15310",
+          "name": "5X",
+          "results": 7
+        },
+        {
+          "id": "152425",
+          "name": "U5",
+          "results": 7
+        },
+        {
+          "id": "14859854",
+          "name": "30+",
+          "results": 7
+        },
+        {
+          "id": "14605",
+          "name": "iPhone 3G",
+          "results": 7
+        },
+        {
+          "id": "14580",
+          "name": "551",
+          "results": 7
+        },
+        {
+          "id": "14543",
+          "name": "C6",
+          "results": 7
+        },
+        {
+          "id": "13828146",
+          "name": "12T Pro Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "13826893",
+          "name": "S89 Pro",
+          "results": 7
+        },
+        {
+          "id": "1373",
+          "name": "Play",
+          "results": 7
+        },
+        {
+          "id": "13691258",
+          "name": "640 4G",
+          "results": 7
+        },
+        {
+          "id": "13605992",
+          "name": "Axon 40 Ultra",
+          "results": 7
+        },
+        {
+          "id": "13555995",
+          "name": "12T Pro",
+          "results": 7
+        },
+        {
+          "id": "13312698",
+          "name": "N95 8GB",
+          "results": 7
+        },
+        {
+          "id": "13290162",
+          "name": "M13 (6000 mAh)",
+          "results": 7
+        },
+        {
+          "id": "13263959",
+          "name": "5310 (2007)",
+          "results": 7
+        },
+        {
+          "id": "13113157",
+          "name": "Z Fold4 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "13111085",
+          "name": "S22+ (Exynos)",
+          "results": 7
+        },
+        {
+          "id": "13063761",
+          "name": "G82 5G Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "13059851",
+          "name": "A31 Plus",
+          "results": 7
+        },
+        {
+          "id": "13054515",
+          "name": "ROG Phone 6",
+          "results": 7
+        },
+        {
+          "id": "13038396",
+          "name": "Nova Y70",
+          "results": 7
+        },
+        {
+          "id": "13019229",
+          "name": "Poco C40",
+          "results": 7
+        },
+        {
+          "id": "12873035",
+          "name": "Phoenix Pro",
+          "results": 7
+        },
+        {
+          "id": "1263569",
+          "name": "Kairos",
+          "results": 7
+        },
+        {
+          "id": "12634026",
+          "name": "M23 5G Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "12550",
+          "name": "3650",
+          "results": 7
+        },
+        {
+          "id": "124744",
+          "name": "J7 Duos",
+          "results": 7
+        },
+        {
+          "id": "124717",
+          "name": "Grand Prime Duos",
+          "results": 7
+        },
+        {
+          "id": "12361989",
+          "name": "Note 11S",
+          "results": 7
+        },
+        {
+          "id": "12361",
+          "name": "3120",
+          "results": 7
+        },
+        {
+          "id": "123153",
+          "name": "Connect 4G",
+          "results": 7
+        },
+        {
+          "id": "123134",
+          "name": "Keystone 2",
+          "results": 7
+        },
+        {
+          "id": "123035",
+          "name": "Y",
+          "results": 7
+        },
+        {
+          "id": "122763",
+          "name": "Grand",
+          "results": 7
+        },
+        {
+          "id": "1225045",
+          "name": "8 Pro",
+          "results": 7
+        },
+        {
+          "id": "12229688",
+          "name": "Poco F4 GT",
+          "results": 7
+        },
+        {
+          "id": "12205311",
+          "name": "S21 FE 5G Dual SIM (Snapdragon)",
+          "results": 7
+        },
+        {
+          "id": "121551",
+          "name": "X (2nd Gen.)",
+          "results": 7
+        },
+        {
+          "id": "121548",
+          "name": "G4 Stylus",
+          "results": 7
+        },
+        {
+          "id": "12067402",
+          "name": "8A Dual SIM (12 Mpx)",
+          "results": 7
+        },
+        {
+          "id": "12067401",
+          "name": "8A Dual SIM (13 Mpx)",
+          "results": 7
+        },
+        {
+          "id": "12062631",
+          "name": "S22 Dual SIM (Exynos)",
+          "results": 7
+        },
+        {
+          "id": "12004261",
+          "name": "12X",
+          "results": 7
+        },
+        {
+          "id": "12002723",
+          "name": "A13 5G",
+          "results": 7
+        },
+        {
+          "id": "12002614",
+          "name": "G22 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11960558",
+          "name": "S22+ Dual SIM (Exynos)",
+          "results": 7
+        },
+        {
+          "id": "11960557",
+          "name": "S22+ Dual SIM (Snapdragon)",
+          "results": 7
+        },
+        {
+          "id": "11958184",
+          "name": "iPhone SE (3rd Generation)",
+          "results": 7
+        },
+        {
+          "id": "119287",
+          "name": "Collo3",
+          "results": 7
+        },
+        {
+          "id": "119253",
+          "name": "P8",
+          "results": 7
+        },
+        {
+          "id": "11894556",
+          "name": "Poco M4 Pro",
+          "results": 7
+        },
+        {
+          "id": "11854770",
+          "name": "Poco X4 Pro 5G",
+          "results": 7
+        },
+        {
+          "id": "11763653",
+          "name": "A03 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11748459",
+          "name": "G71 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11745268",
+          "name": "A52 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11731663",
+          "name": "G100 5G Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11689872",
+          "name": "A31 Lite",
+          "results": 7
+        },
+        {
+          "id": "11681583",
+          "name": "Sky Energy",
+          "results": 7
+        },
+        {
+          "id": "11641468",
+          "name": "A11 Pro Max",
+          "results": 7
+        },
+        {
+          "id": "11638896",
+          "name": "Platinum P4",
+          "results": 7
+        },
+        {
+          "id": "115463",
+          "name": "Five",
+          "results": 7
+        },
+        {
+          "id": "11546101",
+          "name": "GT Neo 2",
+          "results": 7
+        },
+        {
+          "id": "11521115",
+          "name": "A22 5G Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11405435",
+          "name": "Reno6 5G",
+          "results": 7
+        },
+        {
+          "id": "11386668",
+          "name": "20 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11293596",
+          "name": "20 Pro Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11286848",
+          "name": "20 Lite Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "1115615",
+          "name": "C Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11130783",
+          "name": "A03s Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11127456",
+          "name": "Nord 2 5G",
+          "results": 7
+        },
+        {
+          "id": "11072989",
+          "name": "C21Y",
+          "results": 7
+        },
+        {
+          "id": "11064582",
+          "name": "S20 Ultra Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11061731",
+          "name": "A52 5G Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11061630",
+          "name": "A02 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11058420",
+          "name": "A11 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "11058027",
+          "name": "A32 5G Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "10971",
+          "name": "4",
+          "results": 7
+        },
+        {
+          "id": "10933",
+          "name": "II",
+          "results": 7
+        },
+        {
+          "id": "10697",
+          "name": "1600",
+          "results": 7
+        },
+        {
+          "id": "10454040",
+          "name": "K40 Gaming Edition",
+          "results": 7
+        },
+        {
+          "id": "10400991",
+          "name": "A72 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "10386375",
+          "name": "UP32",
+          "results": 7
+        },
+        {
+          "id": "10320",
+          "name": "110",
+          "results": 7
+        },
+        {
+          "id": "10279",
+          "name": "301",
+          "results": 7
+        },
+        {
+          "id": "10275822",
+          "name": "8 5G",
+          "results": 7
+        },
+        {
+          "id": "10275817",
+          "name": "G20 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "10274",
+          "name": "12",
+          "results": 7
+        },
+        {
+          "id": "102406",
+          "name": "535",
+          "results": 7
+        },
+        {
+          "id": "10188406",
+          "name": "9 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "10185061",
+          "name": "11i",
+          "results": 7
+        },
+        {
+          "id": "10185060",
+          "name": "11 Lite 5G",
+          "results": 7
+        },
+        {
+          "id": "10185035",
+          "name": "G50 Dual SIM",
+          "results": 7
+        },
+        {
+          "id": "10185032",
+          "name": "King Kong 5 Pro",
+          "results": 7
+        },
+        {
+          "id": "100746",
+          "name": "530",
+          "results": 7
+        }
+      ]
+    },
+    {
+      "id": "OPERATING_SYSTEM_NAME",
+      "name": "Nombre del sistema operativo",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "7403813",
+          "name": "Android",
+          "results": 17878
+        },
+        {
+          "id": "7404961",
+          "name": "iOS",
+          "results": 14812
+        },
+        {
+          "id": "7239397",
+          "name": "Windows Phone",
+          "results": 56
+        },
+        {
+          "id": "8033910",
+          "name": "Nokia",
+          "results": 28
+        },
+        {
+          "id": "8765639",
+          "name": "Asha",
+          "results": 14
+        },
+        {
+          "id": "7199654",
+          "name": "KaiOS",
+          "results": 14
+        },
+        {
+          "id": "9404091",
+          "name": "Symbian",
+          "results": 7
+        },
+        {
+          "id": "7889614",
+          "name": "ThreadX",
+          "results": 7
+        },
+        {
+          "id": "13252635",
+          "name": "Firefox OS",
+          "results": 7
+        },
+        {
+          "id": "11488553",
+          "name": "S30+",
+          "results": 7
+        }
+      ]
+    },
+    {
+      "id": "RAM",
+      "name": "Memoria RAM",
+      "type": "range",
+      "values": [
+        {
+          "id": "(*-2GB]",
+          "name": "2 GB o menos",
+          "results": 11438
+        },
+        {
+          "id": "[3GB-3GB]",
+          "name": "3 GB",
+          "results": 5950
+        },
+        {
+          "id": "[4GB-4GB]",
+          "name": "4 GB",
+          "results": 9646
+        },
+        {
+          "id": "[5GB-5GB]",
+          "name": "5 GB",
+          "results": 91
+        },
+        {
+          "id": "[6GB-6GB]",
+          "name": "6 GB",
+          "results": 3507
+        },
+        {
+          "id": "[8GB-*)",
+          "name": "8 GB o más",
+          "results": 4823
+        }
+      ]
+    },
+    {
+      "id": "WITH_FACIAL_RECOGNITION",
+      "name": "Otras características",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con reconocimiento facial",
+          "results": 17080
+        }
+      ]
+    },
+    {
+      "id": "WITH_FAST_CHARGING",
+      "name": "Otras características",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con carga rápida",
+          "results": 15652
+        }
+      ]
+    },
+    {
+      "id": "WITH_FINGERPRINT_READER",
+      "name": "Otras características",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con lector de huella digital",
+          "results": 23317
+        }
+      ]
+    },
+    {
+      "id": "WITH_NFC",
+      "name": "Otras características",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con NFC",
+          "results": 18648
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "Producto",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA19147041",
+          "name": "Samsung Galaxy A13",
+          "results": 212
+        },
+        {
+          "id": "MLA19049552",
+          "name": "Motorola Moto G22",
+          "results": 130
+        },
+        {
+          "id": "MLA18955016",
+          "name": "Samsung Galaxy A03",
+          "results": 123
+        },
+        {
+          "id": "MLA18528781",
+          "name": "Samsung Galaxy A03s",
+          "results": 121
+        },
+        {
+          "id": "MLA18730238",
+          "name": "Samsung Galaxy S21 FE 5G (Exynos)",
+          "results": 121
+        },
+        {
+          "id": "MLA19635096",
+          "name": "Samsung Galaxy Z Flip4 5G",
+          "results": 89
+        },
+        {
+          "id": "MLA18958714",
+          "name": "Motorola Moto G200 5G",
+          "results": 81
+        },
+        {
+          "id": "MLA17837309",
+          "name": "Xiaomi Redmi Note 10 5G",
+          "results": 73
+        },
+        {
+          "id": "MLA18558226",
+          "name": "Samsung Galaxy A22 5G",
+          "results": 66
+        },
+        {
+          "id": "MLA16144126",
+          "name": "Samsung Galaxy S20 FE 5G",
+          "results": 65
+        },
+        {
+          "id": "MLA19144868",
+          "name": "Samsung Galaxy A23",
+          "results": 65
+        },
+        {
+          "id": "MLA17324377",
+          "name": "TCL 20 SE",
+          "results": 57
+        },
+        {
+          "id": "MLA19325448",
+          "name": "Motorola Edge 30",
+          "results": 57
+        },
+        {
+          "id": "MLA18597566",
+          "name": "Motorola Moto E40",
+          "results": 49
+        },
+        {
+          "id": "MLA18904851",
+          "name": "Samsung Galaxy A03 Core",
+          "results": 49
+        },
+        {
+          "id": "MLA18967698",
+          "name": "Samsung Galaxy S22 Dual SIM (Snapdragon)",
+          "results": 49
+        },
+        {
+          "id": "MLA19058231",
+          "name": "Motorola G51 5G",
+          "results": 49
+        },
+        {
+          "id": "MLA19469742",
+          "name": "Motorola Edge 30 Pro",
+          "results": 49
+        },
+        {
+          "id": "MLA19473917",
+          "name": "Motorola Moto E323",
+          "results": 49
+        },
+        {
+          "id": "MLA19054917",
+          "name": "Xiaomi Redmi Note 11 Pro",
+          "results": 41
+        },
+        {
+          "id": "MLA19089051",
+          "name": "Samsung Galaxy A33 5G",
+          "results": 41
+        },
+        {
+          "id": "MLA19144867",
+          "name": "Samsung Galaxy A53 5G",
+          "results": 41
+        },
+        {
+          "id": "MLA19557974",
+          "name": "Motorola Moto G82 5G",
+          "results": 41
+        },
+        {
+          "id": "MLA21394658",
+          "name": "Samsung Galaxy S23 Ultra",
+          "results": 41
+        },
+        {
+          "id": "MLA19564574",
+          "name": "Motorola Moto G42",
+          "results": 34
+        },
+        {
+          "id": "MLA18576329",
+          "name": "Motorola Moto E20",
+          "results": 33
+        },
+        {
+          "id": "MLA18904836",
+          "name": "Samsung Galaxy A03 Core Dual SIM",
+          "results": 33
+        },
+        {
+          "id": "MLA19781000",
+          "name": "Motorola Edge 30 Neo",
+          "results": 33
+        },
+        {
+          "id": "MLA20630309",
+          "name": "Motorola Moto E32",
+          "results": 26
+        },
+        {
+          "id": "MLA15927744",
+          "name": "Xiaomi Redmi 9A",
+          "results": 25
+        },
+        {
+          "id": "MLA18115576",
+          "name": "Quantum YOLO",
+          "results": 25
+        },
+        {
+          "id": "MLA18250317",
+          "name": "TCL 20E",
+          "results": 25
+        },
+        {
+          "id": "MLA18577243",
+          "name": "Samsung Galaxy A52s 5G",
+          "results": 25
+        },
+        {
+          "id": "MLA18739407",
+          "name": "Motorola Moto G41",
+          "results": 25
+        },
+        {
+          "id": "MLA18924348",
+          "name": "Xiaomi Redmi Note 11 (Snapdragon)",
+          "results": 25
+        },
+        {
+          "id": "MLA19469751",
+          "name": "Motorola Moto G52",
+          "results": 25
+        },
+        {
+          "id": "MLA19518332",
+          "name": "Kodak Seren D65LX",
+          "results": 25
+        },
+        {
+          "id": "MLA21027024",
+          "name": "Samsung Galaxy A04s",
+          "results": 25
+        },
+        {
+          "id": "MLA19878101",
+          "name": "Samsung A04",
+          "results": 18
+        },
+        {
+          "id": "MLA15587264",
+          "name": "Nokia 106 (2018)",
+          "results": 17
+        },
+        {
+          "id": "MLA19105092",
+          "name": "Noblex A50",
+          "results": 17
+        },
+        {
+          "id": "MLA19175454",
+          "name": "Samsung Galaxy M23 5G Dual SIM",
+          "results": 17
+        },
+        {
+          "id": "MLA19460563",
+          "name": "Samsung Galaxy M13 Dual SIM",
+          "results": 17
+        },
+        {
+          "id": "MLA19627844",
+          "name": "Motorola Edge 30 Fusion",
+          "results": 17
+        },
+        {
+          "id": "MLA7588429",
+          "name": "Sony Xperia XA1",
+          "results": 17
+        },
+        {
+          "id": "MLA19878102",
+          "name": "Samsung Galaxy A04",
+          "results": 11
+        },
+        {
+          "id": "MLA21394657",
+          "name": "Samsung Galaxy S23 Plus",
+          "results": 10
+        },
+        {
+          "id": "MLA12984749",
+          "name": "Sansei S191",
+          "results": 9
+        },
+        {
+          "id": "MLA16054766",
+          "name": "iPro A20",
+          "results": 9
+        },
+        {
+          "id": "MLA16999807",
+          "name": "ZTE Blade A5 Plus",
+          "results": 9
+        }
+      ]
+    }
+  ]
+}

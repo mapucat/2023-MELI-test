@@ -8,10 +8,6 @@ Client side files are defined as the principal folder structure and server files
 
 ## Actual State
 
-There are some details that needs to be done:
- - Add test to server, probably I would need to remove axios library from server (there is some type of incompatibility between axios and jest).
- - Update cypress tests
-
 ### search
 ![Search Page](./public/readme/screenshot-search.png)
 
@@ -20,6 +16,12 @@ There are some details that needs to be done:
 
 ### items/:id
 ![Item Detail Page](./public//readme/screenshot-item-detail.png)
+
+### Client coverage
+![Client Coverage](./public//readme/client-coverage.png)
+
+### Server coverage
+![Server Coverage](./public//readme/server-coverage.png)
 
 ## Requirements
 
@@ -42,7 +44,7 @@ Install server dependencies
 
 ## Start
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -52,26 +54,26 @@ At the same time, runs server side on [http://localhost:5000](http://localhost:5
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-### `npm start:server`
+### `npm run start:server`
 
 Runs server side on [http://localhost:5000](http://localhost:5000)
 
-### `npm start:client`
+### `npm run start:client`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Build
 
-### `npm build`
+### `npm run build`
 
 Builds client and server for production to the `dist` folder.
 
-### `npm build:server`
+### `npm run build:server`
 
 Build server side
 
-### `npm start:client`
+### `npm run build:client`
 
 Build client side
 
@@ -82,14 +84,28 @@ Libraries used to test:
 - [Jest](https://jestjs.io/)
 - [React testing library](https://testing-library.com/)
 
-### `npm test`
+### `npm run test`
 
 Start tests on client and server
 
-### `npm build:server`
+### `npm run test:server`
 
 Start tests on server side
 
-### `npm start:client`
+### `npm run test:client`
 
-Start tests client side
+Start tests on client side
+
+### Coverage
+
+### `npm run coverage`
+
+Start test coverage on client and server
+
+### `npm run coverage:server`
+
+Start test coverage on server side
+
+### `npm run coverage:client`
+
+Start test coverage on client side

@@ -7,16 +7,22 @@ import { CommonCustomError } from './types/custom-error'
 
 const app: Express = express()
 const port = getConfig('port')
-const logger = require('pino-http')({
-  transport: {
-    target: 'pino-pretty',
-    options: {
-      colorize: true
-    }
-  }
-})
+const logger = require('pino-http')
 
-app.use(logger)
+if (process.env.NODE_ENV !== 'test') {
+  app.use(logger({
+    quietReqLogger: true,
+    transport: {
+      target: 'pino-http-print',
+      options: {
+        destination: 1,
+        all: true,
+        translateTime: true
+      }
+    }
+  }))
+}
+
 app.use('/api', routes)
 app.all('**', (req: Request, res: Response<ApiResponse>) => {
   const error = CommonCustomError.getNoDataFoundError()
@@ -29,9 +35,13 @@ app.all('**', (req: Request, res: Response<ApiResponse>) => {
       success: false,
       stringError: JSON.stringify(error)
     }
-  });
-});
-
-app.listen(port, () => {
-  console.log(`[Server]: Running at https://localhost:${port}`)
+  })
 })
+
+if (process.env.NODE_ENV !== 'test') {
+  app.listen(port, () => {
+    console.log(`[Server]: Running at https://localhost:${port}`)
+  })
+}
+
+export default app
